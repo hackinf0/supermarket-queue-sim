@@ -1,0 +1,226 @@
+#!/usr/bin/env python3
+from matplotlib import pyplot as plt
+import argparse
+import csv
+from collections import deque , Counter
+import logging
+from random import expovariate, sample, seed
+
+from discrete_event_sim import Simulation, Event
+from workloads import weibull_generator
+
+# One possible modification is to use a different distribution for job sizes or and/or interarrival times.
+# Weibull distributions (https://en.wikipedia.org/wiki/Weibull_distribution) are a generalization of the
+# exponential distribution, and can be used to see what happens when values are more uniform (shape > 1,
+# approaching a "bell curve") or less (shape < 1, "heavy tailed" case when most of the work is concentrated
+# on few jobs).
+
+# To use Weibull variates, for a given set of parameter do something like
+# from workloads import weibull_generator
+# gen = weibull_generator(shape, mean)
+#
+# and then call gen() every time you need a random variable
+
+
+# columns saved in the CSV file
+CSV_COLUMNS = ['lambd', 'mu', 'max_t', 'n', 'd', 'w']
+
+
+class Queues(Simulation):
+    """Simulation of a system with n servers and n queues.
+
+    The system has n servers with one queue each. Jobs arrive at rate lambda and are served at rate mu.
+    When a job arrives, according to the supermarket model, it chooses d queues at random and joins
+    the shortest one.
+    """
+
+    def __init__(self, lambd, mu, n, d,weibull_shape_arrival,weibull_shape_service):
+        super().__init__()
+        self.running = [None] * n  # if not None, the id of the running job (per queue)
+        self.queues = [deque() for _ in range(n)]  # FIFO queues of the system
+        self.next_id=0
+        # NOTE: we don't keep the running jobs in self.queues
+        self.arrivals = {}  # dictionary mapping job id to arrival time
+        self.completions = {}  # dictionary mapping job id to completion time
+        self.lambd = lambd
+        self.n = n
+        self.d = d
+        self.mu = mu
+        #.arrival_rate = lambd * n  # frequency of new jobs is proportional to the number of queues
+        self.queue_lengths= Counter()
+        self.weibull_shape_arrival = weibull_shape_arrival
+        self.weibull_shape_service = weibull_shape_service
+        
+        self.arrival_gen=weibull_generator(weibull_shape_arrival,1/(lambd*n))
+        self.service_gen=weibull_generator(weibull_shape_service,1/mu)        
+        self.schedule(self.arrival_gen(), Arrival(0))  # schedule the first arrival
+        self.schedule(0, Monitor()) # schedule the first monitoring
+        
+
+        
+    def schedule_arrival(self, job_id):
+        """Schedule the arrival of a new job."""
+
+        # schedule the arrival following an exponential distribution, to compensate the number of queues the arrival
+        # time should depend also on "n"
+
+        # memoryless behavior results in exponentially distributed times between arrivals (we use `expovariate`)
+        # the rate of arrivals is proportional to the number of queues
+
+        self.schedule(self.arrival_gen(), Arrival(job_id))
+
+    def schedule_completion(self, job_id, queue_index):  # TODO: complete this method
+        """Schedule the completion of a job."""
+        
+        # schedule the time of the completion event
+        # check `schedule_arrival` for inspiration
+        
+        self.schedule(self.service_gen(),Completion(job_id,queue_index))
+
+    def queue_len(self, i):
+        """Return the length of the i-th queue.
+        
+        Notice that the currently running job is counted even if it is not in self.queues[i]."""
+
+        return (self.running[i] is not None) + len(self.queues[i])
+
+
+class Arrival(Event):
+    """Event representing the arrival of a new job."""
+
+    def __init__(self, job_id):
+        self.id = job_id
+
+    def process(self, sim: Queues):  # TODO: complete this method
+        sim.arrivals[self.id] = sim.t  # set the arrival time of the job
+        sample_queues = sample(range(sim.n), sim.d)  # sample the id of d queues at random
+        queue_index = min(sample_queues, key=sim.queue_len)  # shortest queue among the sampled ones
+        # check the key argument of the min built-in function:
+        # https://docs.python.org/3/library/functions.html#min
+
+        # implement the following logic:
+
+        # if there is no running job in the queue:
+            # set the incoming one
+            # schedule its completion
+        # otherwise, put the job into the queue
+        # schedule the arrival of the next job
+
+        # if you are looking for inspiration, check the `Completion` class below
+        
+        if sim.running[queue_index] is None:
+            sim.running[queue_index]=self.id
+            sim.schedule_completion(self.id,queue_index)
+        else:
+            sim.queues[queue_index].append(self.id)
+        sim.next_id+=1
+        sim.schedule_arrival(sim.next_id)
+
+
+class Completion(Event):
+    """Job completion."""
+
+    def __init__(self, job_id, queue_index):
+        self.job_id = job_id  # currently unused, might be useful when extending
+        self.queue_index = queue_index
+
+    def process(self, sim: Queues):
+        queue_index = self.queue_index
+        assert sim.running[queue_index] == self.job_id  # the job must be the one running
+        sim.completions[self.job_id] = sim.t
+        queue = sim.queues[queue_index]
+        if queue:  # queue is not empty
+            sim.running[queue_index] = new_job_id = queue.popleft()  # assign the first job in the queue
+            sim.schedule_completion(new_job_id, queue_index)  # schedule its completion
+        else:
+            sim.running[queue_index] = None  # no job is running on the queue
+
+class Monitor(Event):
+    def __init__(self, interval=1):
+        self.interval = interval
+    
+    def process(self, sim):
+        for i in range(sim.n):
+            sim.queue_lengths[sim.queue_len(i)]+=1
+    
+        sim.schedule(self.interval, self)
+    
+
+def theoretical(i, lambd, d):
+    if d == 1:
+        return lambd ** i
+    exponent = (d**i - 1) / (d - 1)
+    return lambd ** exponent
+
+def run_simulation(lambd, d, n, max_t, weibull_shape_arrival=1, weibull_shape_service=1):
+    sim = Queues(lambd, 1, n, d, weibull_shape_arrival, weibull_shape_service)
+    sim.run(max_t)
+    counter = sim.queue_lengths
+    total = sum(counter.values())
+    fractions = []
+    for x in range(1, 15):
+        at_least_x = sum(count for length, count in counter.items() if length >= x)
+        fractions.append(at_least_x / total)
+    return fractions
+
+
+def print_table(fractions, theo, lambd, d):
+    print(f"Queue Size Distribution (Experimental vs. Theoretical) -- d = {d}, lambd = {lambd}:")
+    print(f"{'Queue Size':<12}{'Experimental':<20}{'Theoretical':<20}")
+    print("-" * 50)
+    print(f"{0:<12}{1.0:<20.5f}{1.0:<20.5f}")
+    for x in range(1, 15):
+        print(f"{x:<12}{fractions[x-1]:<20.5f}{theo[x-1]:<20.5f}")
+    print()
+
+
+def plot_curve(ax, fractions, theo, lambd):
+    xs = range(1, 15)
+    line, = ax.plot(xs, fractions, label=f'λ = {lambd}')
+    ax.plot(xs, theo, linestyle='--', color=line.get_color())
+
+
+def plot_all(n, max_t, d, weibull_shape_arrival=1, weibull_shape_service=1):
+    lambdas = [0.5, 0.9, 0.95, 0.99]
+    fig, ax = plt.subplots(figsize=(8, 6))
+    for lambd in lambdas:
+        fractions = run_simulation(lambd, d, n, max_t, weibull_shape_arrival, weibull_shape_service)
+        theo = [theoretical(i, lambd, d) for i in range(1, 15)]
+        print_table(fractions, theo, lambd, d)
+        plot_curve(ax, fractions, theo, lambd)
+    ax.set_title(f'd = {d}, k_arrival = {weibull_shape_arrival}, k_service = {weibull_shape_service}')
+    ax.set_xlabel('Queue length')
+    ax.set_ylabel('Fraction of queues with at least that size')
+    ax.legend()
+    ax.grid(True)
+    plt.tight_layout()
+    plt.show()
+    
+
+def main():
+    parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    parser.add_argument('--lambd', type=float, default=0.7)
+    parser.add_argument('--mu', type=float, default=1)
+    parser.add_argument('--max-t', type=float, default=1_000_000)
+    parser.add_argument('--n', type=int, default=1)
+    parser.add_argument('--d', type=int, default=1)
+    parser.add_argument('--csv', help="CSV file in which to store results")
+    parser.add_argument("--seed", help="random seed")
+    parser.add_argument("--verbose", action='store_true')
+
+    parser.add_argument('--weibull-shape-arrival', type=float, default=1.0,
+                        help="Weibull shape for inter-arrival times (1=exponential)")
+    parser.add_argument('--weibull-shape-service', type=float, default=1.0,
+                        help="Weibull shape for service times (1=exponential)")
+    args = parser.parse_args()
+
+    if args.seed:
+        seed(args.seed)
+
+    plot_all(100, 100000, args.d, args.weibull_shape_arrival, args.weibull_shape_service)
+    
+
+if __name__ == '__main__':
+    main()
+
+

@@ -1,0 +1,2677 @@
+INFO:root:0.00: customer 0 arrived
+INFO:root:2.63: customer 1 arrived
+INFO:root:2.63: customer 1 queued
+INFO:root:4.66: customer 0 left after 4.66
+INFO:root:13.60: customer 1 left after 10.97
+INFO:root:20.07: customer 2 arrived
+INFO:root:20.27: customer 3 arrived
+INFO:root:20.27: customer 3 queued
+INFO:root:22.06: customer 2 left after 1.99
+INFO:root:25.54: customer 4 arrived
+INFO:root:25.54: customer 4 queued
+INFO:root:27.89: customer 5 arrived
+INFO:root:27.89: customer 5 queued
+INFO:root:29.41: customer 6 arrived
+INFO:root:29.41: customer 6 queued
+INFO:root:30.60: customer 7 arrived
+INFO:root:30.60: customer 7 queued
+INFO:root:30.90: customer 3 left after 10.63
+INFO:root:35.00: customer 4 left after 9.46
+INFO:root:35.89: customer 5 left after 8.00
+INFO:root:36.46: customer 8 arrived
+INFO:root:36.46: customer 8 queued
+INFO:root:38.31: customer 9 arrived
+INFO:root:38.31: customer 9 queued
+INFO:root:42.07: customer 6 left after 12.66
+INFO:root:43.38: customer 7 left after 12.78
+INFO:root:45.18: customer 8 left after 8.72
+INFO:root:46.71: customer 10 arrived
+INFO:root:46.71: customer 10 queued
+INFO:root:48.14: customer 11 arrived
+INFO:root:48.14: customer 11 queued
+INFO:root:48.62: customer 9 left after 10.31
+INFO:root:48.73: customer 12 arrived
+INFO:root:48.73: customer 12 queued
+INFO:root:51.06: customer 10 left after 4.35
+INFO:root:51.93: customer 11 left after 3.79
+INFO:root:56.20: customer 12 left after 7.47
+INFO:root:57.74: customer 13 arrived
+INFO:root:58.44: customer 13 left after 0.71
+INFO:root:68.62: customer 14 arrived
+INFO:root:69.50: customer 15 arrived
+INFO:root:69.50: customer 15 queued
+INFO:root:69.71: customer 14 left after 1.09
+INFO:root:70.02: customer 16 arrived
+INFO:root:70.02: customer 16 queued
+INFO:root:70.10: customer 15 left after 0.60
+INFO:root:70.62: customer 16 left after 0.61
+INFO:root:71.21: customer 17 arrived
+INFO:root:71.29: customer 18 arrived
+INFO:root:71.29: customer 18 queued
+INFO:root:77.06: customer 17 left after 5.85
+INFO:root:77.45: customer 19 arrived
+INFO:root:77.45: customer 19 queued
+INFO:root:79.12: customer 20 arrived
+INFO:root:79.12: customer 20 queued
+INFO:root:80.06: customer 18 left after 8.77
+INFO:root:80.54: customer 19 left after 3.09
+INFO:root:81.15: customer 21 arrived
+INFO:root:81.15: customer 21 queued
+INFO:root:82.66: customer 20 left after 3.55
+INFO:root:84.58: customer 21 left after 3.43
+INFO:root:90.13: customer 22 arrived
+INFO:root:91.14: customer 22 left after 1.02
+INFO:root:110.50: customer 23 arrived
+INFO:root:112.23: customer 23 left after 1.73
+INFO:root:114.69: customer 24 arrived
+INFO:root:115.26: customer 25 arrived
+INFO:root:115.26: customer 25 queued
+INFO:root:118.23: customer 24 left after 3.54
+INFO:root:125.94: customer 25 left after 10.67
+INFO:root:127.78: customer 26 arrived
+INFO:root:127.85: customer 26 left after 0.07
+INFO:root:127.93: customer 27 arrived
+INFO:root:128.67: customer 27 left after 0.74
+INFO:root:132.35: customer 28 arrived
+INFO:root:138.13: customer 29 arrived
+INFO:root:138.13: customer 29 queued
+INFO:root:138.15: customer 28 left after 5.80
+INFO:root:139.14: customer 30 arrived
+INFO:root:139.14: customer 30 queued
+INFO:root:140.87: customer 29 left after 2.74
+INFO:root:141.35: customer 30 left after 2.21
+INFO:root:142.84: customer 31 arrived
+INFO:root:143.09: customer 32 arrived
+INFO:root:143.09: customer 32 queued
+INFO:root:150.55: customer 31 left after 7.71
+INFO:root:152.40: customer 32 left after 9.31
+INFO:root:155.26: customer 33 arrived
+INFO:root:155.76: customer 33 left after 0.50
+INFO:root:159.54: customer 34 arrived
+INFO:root:161.24: customer 35 arrived
+INFO:root:161.24: customer 35 queued
+INFO:root:161.47: customer 34 left after 1.93
+INFO:root:162.80: customer 36 arrived
+INFO:root:162.80: customer 36 queued
+INFO:root:168.26: customer 35 left after 7.03
+INFO:root:168.70: customer 37 arrived
+INFO:root:168.70: customer 37 queued
+INFO:root:168.73: customer 38 arrived
+INFO:root:168.73: customer 38 queued
+INFO:root:174.53: customer 36 left after 11.73
+INFO:root:175.28: customer 37 left after 6.59
+INFO:root:178.70: customer 38 left after 9.97
+INFO:root:180.66: customer 39 arrived
+INFO:root:181.10: customer 39 left after 0.44
+INFO:root:189.05: customer 40 arrived
+INFO:root:189.72: customer 40 left after 0.66
+INFO:root:194.85: customer 41 arrived
+INFO:root:195.28: customer 42 arrived
+INFO:root:195.28: customer 42 queued
+INFO:root:195.32: customer 43 arrived
+INFO:root:195.32: customer 43 queued
+INFO:root:196.83: customer 41 left after 1.99
+INFO:root:197.48: customer 42 left after 2.19
+INFO:root:198.63: customer 43 left after 3.32
+INFO:root:206.59: customer 44 arrived
+INFO:root:207.23: customer 44 left after 0.64
+INFO:root:212.10: customer 45 arrived
+INFO:root:213.46: customer 45 left after 1.36
+INFO:root:222.64: customer 46 arrived
+INFO:root:223.40: customer 46 left after 0.77
+INFO:root:227.73: customer 47 arrived
+INFO:root:229.45: customer 47 left after 1.72
+INFO:root:236.85: customer 48 arrived
+INFO:root:237.05: customer 48 left after 0.20
+INFO:root:238.28: customer 49 arrived
+INFO:root:238.49: customer 50 arrived
+INFO:root:238.49: customer 50 queued
+INFO:root:250.05: customer 51 arrived
+INFO:root:250.05: customer 51 queued
+INFO:root:250.07: customer 52 arrived
+INFO:root:250.07: customer 52 queued
+INFO:root:252.02: customer 49 left after 13.74
+INFO:root:258.03: customer 53 arrived
+INFO:root:258.03: customer 53 queued
+INFO:root:258.14: customer 50 left after 19.65
+INFO:root:259.09: customer 54 arrived
+INFO:root:259.09: customer 54 queued
+INFO:root:260.29: customer 55 arrived
+INFO:root:260.29: customer 55 queued
+INFO:root:260.69: customer 51 left after 10.64
+INFO:root:261.10: customer 52 left after 11.04
+INFO:root:265.85: customer 56 arrived
+INFO:root:265.85: customer 56 queued
+INFO:root:266.44: customer 57 arrived
+INFO:root:266.44: customer 57 queued
+INFO:root:272.91: customer 53 left after 14.88
+INFO:root:274.38: customer 58 arrived
+INFO:root:274.38: customer 58 queued
+INFO:root:275.07: customer 54 left after 15.98
+INFO:root:276.10: customer 59 arrived
+INFO:root:276.10: customer 59 queued
+INFO:root:277.50: customer 60 arrived
+INFO:root:277.50: customer 60 queued
+INFO:root:278.12: customer 55 left after 17.83
+INFO:root:282.31: customer 56 left after 16.47
+INFO:root:282.32: customer 57 left after 15.88
+INFO:root:282.57: customer 58 left after 8.19
+INFO:root:284.03: customer 59 left after 7.93
+INFO:root:288.63: customer 60 left after 11.13
+INFO:root:289.85: customer 61 arrived
+INFO:root:290.17: customer 61 left after 0.32
+INFO:root:291.32: customer 62 arrived
+INFO:root:291.39: customer 63 arrived
+INFO:root:291.39: customer 63 queued
+INFO:root:293.38: customer 62 left after 2.06
+INFO:root:299.49: customer 64 arrived
+INFO:root:299.49: customer 64 queued
+INFO:root:302.80: customer 65 arrived
+INFO:root:302.80: customer 65 queued
+INFO:root:303.82: customer 63 left after 12.43
+INFO:root:305.20: customer 64 left after 5.71
+INFO:root:305.35: customer 66 arrived
+INFO:root:305.35: customer 66 queued
+INFO:root:309.55: customer 65 left after 6.76
+INFO:root:315.19: customer 67 arrived
+INFO:root:315.19: customer 67 queued
+INFO:root:315.44: customer 68 arrived
+INFO:root:315.44: customer 68 queued
+INFO:root:315.59: customer 66 left after 10.23
+INFO:root:315.70: customer 69 arrived
+INFO:root:315.70: customer 69 queued
+INFO:root:316.62: customer 67 left after 1.43
+INFO:root:317.36: customer 68 left after 1.92
+INFO:root:318.80: customer 70 arrived
+INFO:root:318.80: customer 70 queued
+INFO:root:320.02: customer 71 arrived
+INFO:root:320.02: customer 71 queued
+INFO:root:322.11: customer 69 left after 6.41
+INFO:root:327.03: customer 70 left after 8.23
+INFO:root:329.19: customer 71 left after 9.17
+INFO:root:332.93: customer 72 arrived
+INFO:root:334.15: customer 73 arrived
+INFO:root:334.15: customer 73 queued
+INFO:root:335.95: customer 72 left after 3.02
+INFO:root:336.61: customer 73 left after 2.46
+INFO:root:338.30: customer 74 arrived
+INFO:root:338.59: customer 75 arrived
+INFO:root:338.59: customer 75 queued
+INFO:root:339.68: customer 74 left after 1.38
+INFO:root:339.91: customer 75 left after 1.33
+INFO:root:340.81: customer 76 arrived
+INFO:root:345.39: customer 77 arrived
+INFO:root:345.39: customer 77 queued
+INFO:root:346.43: customer 78 arrived
+INFO:root:346.43: customer 78 queued
+INFO:root:346.44: customer 76 left after 5.63
+INFO:root:346.73: customer 77 left after 1.33
+INFO:root:346.82: customer 78 left after 0.39
+INFO:root:350.96: customer 79 arrived
+INFO:root:352.47: customer 80 arrived
+INFO:root:352.47: customer 80 queued
+INFO:root:356.63: customer 79 left after 5.67
+INFO:root:358.08: customer 80 left after 5.61
+INFO:root:365.00: customer 81 arrived
+INFO:root:366.79: customer 81 left after 1.79
+INFO:root:372.04: customer 82 arrived
+INFO:root:374.35: customer 83 arrived
+INFO:root:374.35: customer 83 queued
+INFO:root:375.68: customer 84 arrived
+INFO:root:375.68: customer 84 queued
+INFO:root:376.38: customer 82 left after 4.34
+INFO:root:378.69: customer 83 left after 4.34
+INFO:root:379.92: customer 85 arrived
+INFO:root:379.92: customer 85 queued
+INFO:root:380.94: customer 84 left after 5.27
+INFO:root:381.15: customer 86 arrived
+INFO:root:381.15: customer 86 queued
+INFO:root:381.79: customer 87 arrived
+INFO:root:381.79: customer 87 queued
+INFO:root:385.64: customer 88 arrived
+INFO:root:385.64: customer 88 queued
+INFO:root:385.93: customer 85 left after 6.02
+INFO:root:388.69: customer 86 left after 7.54
+INFO:root:389.16: customer 89 arrived
+INFO:root:389.16: customer 89 queued
+INFO:root:389.78: customer 87 left after 7.99
+INFO:root:392.30: customer 88 left after 6.66
+INFO:root:394.37: customer 89 left after 5.21
+INFO:root:395.64: customer 90 arrived
+INFO:root:396.22: customer 91 arrived
+INFO:root:396.22: customer 91 queued
+INFO:root:400.51: customer 92 arrived
+INFO:root:400.51: customer 92 queued
+INFO:root:405.78: customer 90 left after 10.14
+INFO:root:406.93: customer 91 left after 10.71
+INFO:root:407.14: customer 93 arrived
+INFO:root:407.14: customer 93 queued
+INFO:root:407.39: customer 92 left after 6.88
+INFO:root:411.37: customer 93 left after 4.23
+INFO:root:414.95: customer 94 arrived
+INFO:root:416.91: customer 95 arrived
+INFO:root:416.91: customer 95 queued
+INFO:root:417.42: customer 94 left after 2.47
+INFO:root:420.96: customer 95 left after 4.04
+INFO:root:421.05: customer 96 arrived
+INFO:root:424.25: customer 96 left after 3.20
+INFO:root:435.21: customer 97 arrived
+INFO:root:435.58: customer 98 arrived
+INFO:root:435.58: customer 98 queued
+INFO:root:436.96: customer 97 left after 1.75
+INFO:root:438.72: customer 98 left after 3.14
+INFO:root:439.30: customer 99 arrived
+INFO:root:442.68: customer 100 arrived
+INFO:root:442.68: customer 100 queued
+INFO:root:442.68: customer 101 arrived
+INFO:root:442.68: customer 101 queued
+INFO:root:442.94: customer 99 left after 3.63
+INFO:root:443.17: customer 100 left after 0.50
+INFO:root:443.63: customer 101 left after 0.94
+INFO:root:451.45: customer 102 arrived
+INFO:root:451.90: customer 102 left after 0.44
+INFO:root:456.06: customer 103 arrived
+INFO:root:462.97: customer 103 left after 6.91
+INFO:root:468.64: customer 104 arrived
+INFO:root:468.77: customer 105 arrived
+INFO:root:468.77: customer 105 queued
+INFO:root:468.89: customer 104 left after 0.25
+INFO:root:471.62: customer 106 arrived
+INFO:root:471.62: customer 106 queued
+INFO:root:476.89: customer 105 left after 8.13
+INFO:root:477.31: customer 106 left after 5.69
+INFO:root:487.98: customer 107 arrived
+INFO:root:489.00: customer 107 left after 1.02
+INFO:root:493.76: customer 108 arrived
+INFO:root:495.28: customer 108 left after 1.52
+INFO:root:495.73: customer 109 arrived
+INFO:root:499.71: customer 110 arrived
+INFO:root:499.71: customer 110 queued
+INFO:root:504.96: customer 109 left after 9.23
+INFO:root:505.00: customer 111 arrived
+INFO:root:505.00: customer 111 queued
+INFO:root:505.26: customer 112 arrived
+INFO:root:505.26: customer 112 queued
+INFO:root:505.79: customer 113 arrived
+INFO:root:505.79: customer 113 queued
+INFO:root:512.40: customer 114 arrived
+INFO:root:512.40: customer 114 queued
+INFO:root:514.56: customer 115 arrived
+INFO:root:514.56: customer 115 queued
+INFO:root:517.02: customer 110 left after 17.30
+INFO:root:517.04: customer 111 left after 12.03
+INFO:root:517.13: customer 112 left after 11.87
+INFO:root:517.63: customer 113 left after 11.84
+INFO:root:518.30: customer 116 arrived
+INFO:root:518.30: customer 116 queued
+INFO:root:525.36: customer 114 left after 12.96
+INFO:root:531.58: customer 115 left after 17.02
+INFO:root:532.53: customer 116 left after 14.22
+INFO:root:538.76: customer 117 arrived
+INFO:root:541.38: customer 117 left after 2.62
+INFO:root:547.54: customer 118 arrived
+INFO:root:549.84: customer 118 left after 2.30
+INFO:root:553.24: customer 119 arrived
+INFO:root:556.10: customer 119 left after 2.86
+INFO:root:563.75: customer 120 arrived
+INFO:root:565.24: customer 121 arrived
+INFO:root:565.24: customer 121 queued
+INFO:root:570.42: customer 122 arrived
+INFO:root:570.42: customer 122 queued
+INFO:root:570.54: customer 123 arrived
+INFO:root:570.54: customer 123 queued
+INFO:root:570.81: customer 120 left after 7.06
+INFO:root:571.84: customer 121 left after 6.61
+INFO:root:574.37: customer 122 left after 3.95
+INFO:root:574.61: customer 124 arrived
+INFO:root:574.61: customer 124 queued
+INFO:root:584.55: customer 125 arrived
+INFO:root:584.55: customer 125 queued
+INFO:root:584.64: customer 123 left after 14.10
+INFO:root:586.70: customer 126 arrived
+INFO:root:586.70: customer 126 queued
+INFO:root:589.49: customer 124 left after 14.88
+INFO:root:590.52: customer 125 left after 5.97
+INFO:root:593.50: customer 127 arrived
+INFO:root:593.50: customer 127 queued
+INFO:root:596.78: customer 126 left after 10.08
+INFO:root:596.85: customer 128 arrived
+INFO:root:596.85: customer 128 queued
+INFO:root:599.00: customer 127 left after 5.50
+INFO:root:600.69: customer 128 left after 3.84
+INFO:root:612.00: customer 129 arrived
+INFO:root:614.75: customer 130 arrived
+INFO:root:614.75: customer 130 queued
+INFO:root:616.48: customer 129 left after 4.48
+INFO:root:620.86: customer 131 arrived
+INFO:root:620.86: customer 131 queued
+INFO:root:621.94: customer 130 left after 7.19
+INFO:root:624.97: customer 131 left after 4.11
+INFO:root:625.31: customer 132 arrived
+INFO:root:626.85: customer 133 arrived
+INFO:root:626.85: customer 133 queued
+INFO:root:628.02: customer 132 left after 2.71
+INFO:root:630.41: customer 133 left after 3.56
+INFO:root:630.86: customer 134 arrived
+INFO:root:630.94: customer 134 left after 0.07
+INFO:root:631.59: customer 135 arrived
+INFO:root:634.06: customer 135 left after 2.47
+INFO:root:641.09: customer 136 arrived
+INFO:root:644.36: customer 137 arrived
+INFO:root:644.36: customer 137 queued
+INFO:root:647.04: customer 136 left after 5.95
+INFO:root:648.13: customer 137 left after 3.77
+INFO:root:651.68: customer 138 arrived
+INFO:root:652.38: customer 138 left after 0.71
+INFO:root:652.93: customer 139 arrived
+INFO:root:659.47: customer 139 left after 6.55
+INFO:root:696.91: customer 140 arrived
+INFO:root:700.05: customer 140 left after 3.14
+INFO:root:702.32: customer 141 arrived
+INFO:root:702.88: customer 142 arrived
+INFO:root:702.88: customer 142 queued
+INFO:root:704.93: customer 141 left after 2.61
+INFO:root:705.68: customer 143 arrived
+INFO:root:705.68: customer 143 queued
+INFO:root:707.70: customer 142 left after 4.82
+INFO:root:714.36: customer 144 arrived
+INFO:root:714.36: customer 144 queued
+INFO:root:715.95: customer 143 left after 10.27
+INFO:root:718.74: customer 145 arrived
+INFO:root:718.74: customer 145 queued
+INFO:root:718.81: customer 146 arrived
+INFO:root:718.81: customer 146 queued
+INFO:root:720.99: customer 147 arrived
+INFO:root:720.99: customer 147 queued
+INFO:root:721.37: customer 144 left after 7.01
+INFO:root:723.10: customer 145 left after 4.36
+INFO:root:723.22: customer 148 arrived
+INFO:root:723.22: customer 148 queued
+INFO:root:724.05: customer 149 arrived
+INFO:root:724.05: customer 149 queued
+INFO:root:726.68: customer 150 arrived
+INFO:root:726.68: customer 150 queued
+INFO:root:727.44: customer 151 arrived
+INFO:root:727.44: customer 151 queued
+INFO:root:729.28: customer 146 left after 10.47
+INFO:root:730.21: customer 152 arrived
+INFO:root:730.21: customer 152 queued
+INFO:root:732.37: customer 153 arrived
+INFO:root:732.37: customer 153 queued
+INFO:root:735.89: customer 154 arrived
+INFO:root:735.89: customer 154 queued
+INFO:root:736.66: customer 147 left after 15.67
+INFO:root:737.48: customer 148 left after 14.26
+INFO:root:737.95: customer 149 left after 13.90
+INFO:root:738.44: customer 150 left after 11.76
+INFO:root:739.00: customer 151 left after 11.55
+INFO:root:743.07: customer 152 left after 12.86
+INFO:root:744.12: customer 153 left after 11.74
+INFO:root:749.87: customer 155 arrived
+INFO:root:749.87: customer 155 queued
+INFO:root:750.03: customer 154 left after 14.14
+INFO:root:752.59: customer 155 left after 2.72
+INFO:root:757.16: customer 156 arrived
+INFO:root:759.29: customer 156 left after 2.13
+INFO:root:761.91: customer 157 arrived
+INFO:root:764.00: customer 158 arrived
+INFO:root:764.00: customer 158 queued
+INFO:root:766.10: customer 157 left after 4.19
+INFO:root:766.26: customer 158 left after 2.25
+INFO:root:782.76: customer 159 arrived
+INFO:root:783.01: customer 160 arrived
+INFO:root:783.01: customer 160 queued
+INFO:root:786.65: customer 159 left after 3.89
+INFO:root:792.51: customer 161 arrived
+INFO:root:792.51: customer 161 queued
+INFO:root:792.88: customer 160 left after 9.87
+INFO:root:793.40: customer 162 arrived
+INFO:root:793.40: customer 162 queued
+INFO:root:794.55: customer 161 left after 2.04
+INFO:root:798.53: customer 162 left after 5.13
+INFO:root:809.96: customer 163 arrived
+INFO:root:810.89: customer 164 arrived
+INFO:root:810.89: customer 164 queued
+INFO:root:812.51: customer 163 left after 2.55
+INFO:root:816.42: customer 164 left after 5.53
+INFO:root:817.57: customer 165 arrived
+INFO:root:817.61: customer 165 left after 0.04
+INFO:root:823.00: customer 166 arrived
+INFO:root:826.40: customer 167 arrived
+INFO:root:826.40: customer 167 queued
+INFO:root:830.10: customer 166 left after 7.09
+INFO:root:833.44: customer 167 left after 7.04
+INFO:root:835.66: customer 168 arrived
+INFO:root:838.82: customer 169 arrived
+INFO:root:838.82: customer 169 queued
+INFO:root:843.18: customer 168 left after 7.52
+INFO:root:845.97: customer 169 left after 7.16
+INFO:root:873.32: customer 170 arrived
+INFO:root:873.80: customer 170 left after 0.48
+INFO:root:882.58: customer 171 arrived
+INFO:root:882.76: customer 172 arrived
+INFO:root:882.76: customer 172 queued
+INFO:root:882.78: customer 171 left after 0.20
+INFO:root:883.24: customer 172 left after 0.48
+INFO:root:887.28: customer 173 arrived
+INFO:root:887.59: customer 174 arrived
+INFO:root:887.59: customer 174 queued
+INFO:root:889.55: customer 173 left after 2.27
+INFO:root:891.16: customer 174 left after 3.58
+INFO:root:891.31: customer 175 arrived
+INFO:root:891.50: customer 175 left after 0.19
+INFO:root:894.65: customer 176 arrived
+INFO:root:896.49: customer 176 left after 1.84
+INFO:root:899.80: customer 177 arrived
+INFO:root:903.49: customer 177 left after 3.69
+INFO:root:908.62: customer 178 arrived
+INFO:root:908.77: customer 179 arrived
+INFO:root:908.77: customer 179 queued
+INFO:root:909.05: customer 178 left after 0.43
+INFO:root:918.68: customer 180 arrived
+INFO:root:918.68: customer 180 queued
+INFO:root:922.26: customer 181 arrived
+INFO:root:922.26: customer 181 queued
+INFO:root:927.76: customer 179 left after 19.00
+INFO:root:932.37: customer 182 arrived
+INFO:root:932.37: customer 182 queued
+INFO:root:934.90: customer 180 left after 16.21
+INFO:root:936.58: customer 183 arrived
+INFO:root:936.58: customer 183 queued
+INFO:root:936.88: customer 181 left after 14.62
+INFO:root:936.89: customer 184 arrived
+INFO:root:936.89: customer 184 queued
+INFO:root:939.39: customer 182 left after 7.03
+INFO:root:939.82: customer 185 arrived
+INFO:root:939.82: customer 185 queued
+INFO:root:941.71: customer 183 left after 5.13
+INFO:root:945.64: customer 186 arrived
+INFO:root:945.64: customer 186 queued
+INFO:root:946.13: customer 184 left after 9.24
+INFO:root:946.23: customer 185 left after 6.41
+INFO:root:947.47: customer 186 left after 1.83
+INFO:root:949.02: customer 187 arrived
+INFO:root:949.96: customer 187 left after 0.94
+INFO:root:955.91: customer 188 arrived
+INFO:root:956.75: customer 188 left after 0.84
+INFO:root:960.27: customer 189 arrived
+INFO:root:970.25: customer 190 arrived
+INFO:root:970.25: customer 190 queued
+INFO:root:972.07: customer 189 left after 11.80
+INFO:root:974.38: customer 191 arrived
+INFO:root:974.38: customer 191 queued
+INFO:root:974.95: customer 190 left after 4.70
+INFO:root:975.76: customer 192 arrived
+INFO:root:975.76: customer 192 queued
+INFO:root:982.22: customer 191 left after 7.84
+INFO:root:982.94: customer 192 left after 7.18
+INFO:root:991.27: customer 193 arrived
+INFO:root:994.43: customer 193 left after 3.17
+INFO:root:999.08: customer 194 arrived
+INFO:root:1001.43: customer 194 left after 2.35
+INFO:root:1004.68: customer 195 arrived
+INFO:root:1004.77: customer 195 left after 0.09
+INFO:root:1005.99: customer 196 arrived
+INFO:root:1006.58: customer 196 left after 0.59
+INFO:root:1030.83: customer 197 arrived
+INFO:root:1032.97: customer 198 arrived
+INFO:root:1032.97: customer 198 queued
+INFO:root:1035.51: customer 197 left after 4.68
+INFO:root:1037.11: customer 199 arrived
+INFO:root:1037.11: customer 199 queued
+INFO:root:1042.81: customer 200 arrived
+INFO:root:1042.81: customer 200 queued
+INFO:root:1048.75: customer 198 left after 15.78
+INFO:root:1054.37: customer 199 left after 17.27
+INFO:root:1055.26: customer 200 left after 12.46
+INFO:root:1058.71: customer 201 arrived
+INFO:root:1059.14: customer 201 left after 0.43
+INFO:root:1062.85: customer 202 arrived
+INFO:root:1063.65: customer 202 left after 0.81
+INFO:root:1076.01: customer 203 arrived
+INFO:root:1078.53: customer 204 arrived
+INFO:root:1078.53: customer 204 queued
+INFO:root:1078.57: customer 203 left after 2.56
+INFO:root:1079.78: customer 205 arrived
+INFO:root:1079.78: customer 205 queued
+INFO:root:1079.80: customer 204 left after 1.26
+INFO:root:1084.17: customer 206 arrived
+INFO:root:1084.17: customer 206 queued
+INFO:root:1086.08: customer 207 arrived
+INFO:root:1086.08: customer 207 queued
+INFO:root:1086.65: customer 208 arrived
+INFO:root:1086.65: customer 208 queued
+INFO:root:1090.80: customer 205 left after 11.03
+INFO:root:1094.89: customer 209 arrived
+INFO:root:1094.89: customer 209 queued
+INFO:root:1095.06: customer 206 left after 10.90
+INFO:root:1098.38: customer 210 arrived
+INFO:root:1098.38: customer 210 queued
+INFO:root:1099.99: customer 207 left after 13.92
+INFO:root:1106.06: customer 211 arrived
+INFO:root:1106.06: customer 211 queued
+INFO:root:1108.19: customer 208 left after 21.53
+INFO:root:1110.86: customer 209 left after 15.98
+INFO:root:1111.17: customer 212 arrived
+INFO:root:1111.17: customer 212 queued
+INFO:root:1111.84: customer 213 arrived
+INFO:root:1111.84: customer 213 queued
+INFO:root:1112.57: customer 210 left after 14.19
+INFO:root:1112.89: customer 214 arrived
+INFO:root:1112.89: customer 214 queued
+INFO:root:1112.98: customer 211 left after 6.92
+INFO:root:1114.07: customer 212 left after 2.90
+INFO:root:1116.47: customer 213 left after 4.63
+INFO:root:1116.71: customer 214 left after 3.82
+INFO:root:1118.19: customer 215 arrived
+INFO:root:1120.71: customer 216 arrived
+INFO:root:1120.71: customer 216 queued
+INFO:root:1127.58: customer 217 arrived
+INFO:root:1127.58: customer 217 queued
+INFO:root:1129.51: customer 218 arrived
+INFO:root:1129.51: customer 218 queued
+INFO:root:1130.80: customer 219 arrived
+INFO:root:1130.80: customer 219 queued
+INFO:root:1131.15: customer 215 left after 12.96
+INFO:root:1133.61: customer 220 arrived
+INFO:root:1133.61: customer 220 queued
+INFO:root:1135.10: customer 216 left after 14.39
+INFO:root:1136.17: customer 217 left after 8.58
+INFO:root:1136.21: customer 221 arrived
+INFO:root:1136.21: customer 221 queued
+INFO:root:1139.19: customer 218 left after 9.68
+INFO:root:1139.92: customer 222 arrived
+INFO:root:1139.92: customer 222 queued
+INFO:root:1140.45: customer 223 arrived
+INFO:root:1140.45: customer 223 queued
+INFO:root:1141.58: customer 224 arrived
+INFO:root:1141.58: customer 224 queued
+INFO:root:1143.39: customer 219 left after 12.59
+INFO:root:1143.60: customer 225 arrived
+INFO:root:1143.60: customer 225 queued
+INFO:root:1143.68: customer 226 arrived
+INFO:root:1143.68: customer 226 queued
+INFO:root:1144.86: customer 227 arrived
+INFO:root:1144.86: customer 227 queued
+INFO:root:1145.60: customer 220 left after 11.99
+INFO:root:1146.55: customer 228 arrived
+INFO:root:1146.55: customer 228 queued
+INFO:root:1150.36: customer 221 left after 14.14
+INFO:root:1152.61: customer 229 arrived
+INFO:root:1152.61: customer 229 queued
+INFO:root:1153.88: customer 230 arrived
+INFO:root:1153.88: customer 230 queued
+INFO:root:1154.08: customer 231 arrived
+INFO:root:1154.08: customer 231 queued
+INFO:root:1158.27: customer 232 arrived
+INFO:root:1158.27: customer 232 queued
+INFO:root:1158.63: customer 233 arrived
+INFO:root:1158.63: customer 233 queued
+INFO:root:1160.16: customer 222 left after 20.24
+INFO:root:1166.25: customer 223 left after 25.80
+INFO:root:1166.48: customer 234 arrived
+INFO:root:1166.48: customer 234 queued
+INFO:root:1167.01: customer 224 left after 25.43
+INFO:root:1169.23: customer 235 arrived
+INFO:root:1169.23: customer 235 queued
+INFO:root:1169.86: customer 225 left after 26.26
+INFO:root:1171.79: customer 236 arrived
+INFO:root:1171.79: customer 236 queued
+INFO:root:1171.79: customer 237 arrived
+INFO:root:1171.79: customer 237 queued
+INFO:root:1174.53: customer 226 left after 30.85
+INFO:root:1175.09: customer 227 left after 30.23
+INFO:root:1177.01: customer 238 arrived
+INFO:root:1177.01: customer 238 queued
+INFO:root:1179.32: customer 228 left after 32.76
+INFO:root:1182.31: customer 229 left after 29.70
+INFO:root:1184.02: customer 230 left after 30.14
+INFO:root:1185.57: customer 239 arrived
+INFO:root:1185.57: customer 239 queued
+INFO:root:1186.25: customer 231 left after 32.17
+INFO:root:1186.39: customer 240 arrived
+INFO:root:1186.39: customer 240 queued
+INFO:root:1197.66: customer 232 left after 39.40
+INFO:root:1199.42: customer 241 arrived
+INFO:root:1199.42: customer 241 queued
+INFO:root:1206.68: customer 233 left after 48.04
+INFO:root:1207.72: customer 234 left after 41.24
+INFO:root:1211.02: customer 242 arrived
+INFO:root:1211.02: customer 242 queued
+INFO:root:1212.56: customer 235 left after 43.33
+INFO:root:1213.79: customer 236 left after 42.00
+INFO:root:1214.07: customer 243 arrived
+INFO:root:1214.07: customer 243 queued
+INFO:root:1214.57: customer 237 left after 42.78
+INFO:root:1216.36: customer 244 arrived
+INFO:root:1216.36: customer 244 queued
+INFO:root:1216.55: customer 238 left after 39.54
+INFO:root:1218.32: customer 245 arrived
+INFO:root:1218.32: customer 245 queued
+INFO:root:1218.91: customer 239 left after 33.35
+INFO:root:1219.56: customer 240 left after 33.17
+INFO:root:1219.96: customer 246 arrived
+INFO:root:1219.96: customer 246 queued
+INFO:root:1225.89: customer 247 arrived
+INFO:root:1225.89: customer 247 queued
+INFO:root:1226.78: customer 248 arrived
+INFO:root:1226.78: customer 248 queued
+INFO:root:1227.51: customer 249 arrived
+INFO:root:1227.51: customer 249 queued
+INFO:root:1228.14: customer 241 left after 28.72
+INFO:root:1228.69: customer 250 arrived
+INFO:root:1228.69: customer 250 queued
+INFO:root:1232.40: customer 242 left after 21.38
+INFO:root:1232.56: customer 243 left after 18.49
+INFO:root:1232.69: customer 251 arrived
+INFO:root:1232.69: customer 251 queued
+INFO:root:1235.75: customer 252 arrived
+INFO:root:1235.75: customer 252 queued
+INFO:root:1237.12: customer 244 left after 20.76
+INFO:root:1237.62: customer 245 left after 19.29
+INFO:root:1238.36: customer 246 left after 18.40
+INFO:root:1240.29: customer 247 left after 14.40
+INFO:root:1240.89: customer 248 left after 14.10
+INFO:root:1242.59: customer 253 arrived
+INFO:root:1242.59: customer 253 queued
+INFO:root:1242.91: customer 249 left after 15.40
+INFO:root:1243.79: customer 250 left after 15.10
+INFO:root:1246.72: customer 254 arrived
+INFO:root:1246.72: customer 254 queued
+INFO:root:1249.71: customer 251 left after 17.02
+INFO:root:1250.08: customer 252 left after 14.33
+INFO:root:1254.71: customer 255 arrived
+INFO:root:1254.71: customer 255 queued
+INFO:root:1262.22: customer 253 left after 19.63
+INFO:root:1262.55: customer 256 arrived
+INFO:root:1262.55: customer 256 queued
+INFO:root:1265.96: customer 254 left after 19.23
+INFO:root:1266.28: customer 257 arrived
+INFO:root:1266.28: customer 257 queued
+INFO:root:1272.68: customer 258 arrived
+INFO:root:1272.68: customer 258 queued
+INFO:root:1273.90: customer 259 arrived
+INFO:root:1273.90: customer 259 queued
+INFO:root:1279.20: customer 255 left after 24.49
+INFO:root:1279.44: customer 260 arrived
+INFO:root:1279.44: customer 260 queued
+INFO:root:1280.63: customer 261 arrived
+INFO:root:1280.63: customer 261 queued
+INFO:root:1281.30: customer 262 arrived
+INFO:root:1281.30: customer 262 queued
+INFO:root:1287.18: customer 256 left after 24.64
+INFO:root:1289.49: customer 257 left after 23.21
+INFO:root:1289.97: customer 258 left after 17.29
+INFO:root:1291.52: customer 263 arrived
+INFO:root:1291.52: customer 263 queued
+INFO:root:1291.99: customer 259 left after 18.09
+INFO:root:1292.36: customer 264 arrived
+INFO:root:1292.36: customer 264 queued
+INFO:root:1292.55: customer 265 arrived
+INFO:root:1292.55: customer 265 queued
+INFO:root:1294.69: customer 260 left after 15.25
+INFO:root:1294.89: customer 266 arrived
+INFO:root:1294.89: customer 266 queued
+INFO:root:1298.36: customer 261 left after 17.72
+INFO:root:1299.37: customer 262 left after 18.07
+INFO:root:1299.77: customer 263 left after 8.25
+INFO:root:1304.45: customer 264 left after 12.09
+INFO:root:1305.11: customer 265 left after 12.56
+INFO:root:1305.96: customer 267 arrived
+INFO:root:1305.96: customer 267 queued
+INFO:root:1315.43: customer 268 arrived
+INFO:root:1315.43: customer 268 queued
+INFO:root:1315.99: customer 266 left after 21.10
+INFO:root:1318.10: customer 267 left after 12.14
+INFO:root:1318.69: customer 269 arrived
+INFO:root:1318.69: customer 269 queued
+INFO:root:1320.14: customer 268 left after 4.71
+INFO:root:1320.35: customer 269 left after 1.66
+INFO:root:1321.00: customer 270 arrived
+INFO:root:1321.55: customer 271 arrived
+INFO:root:1321.55: customer 271 queued
+INFO:root:1321.68: customer 272 arrived
+INFO:root:1321.68: customer 272 queued
+INFO:root:1322.67: customer 270 left after 1.67
+INFO:root:1325.50: customer 273 arrived
+INFO:root:1325.50: customer 273 queued
+INFO:root:1325.57: customer 271 left after 4.02
+INFO:root:1328.68: customer 272 left after 7.00
+INFO:root:1329.70: customer 274 arrived
+INFO:root:1329.70: customer 274 queued
+INFO:root:1330.30: customer 273 left after 4.80
+INFO:root:1331.73: customer 275 arrived
+INFO:root:1331.73: customer 275 queued
+INFO:root:1331.84: customer 274 left after 2.15
+INFO:root:1332.54: customer 276 arrived
+INFO:root:1332.54: customer 276 queued
+INFO:root:1332.84: customer 275 left after 1.11
+INFO:root:1333.39: customer 276 left after 0.85
+INFO:root:1349.43: customer 277 arrived
+INFO:root:1351.37: customer 277 left after 1.93
+INFO:root:1352.54: customer 278 arrived
+INFO:root:1356.07: customer 279 arrived
+INFO:root:1356.07: customer 279 queued
+INFO:root:1356.94: customer 280 arrived
+INFO:root:1356.94: customer 280 queued
+INFO:root:1361.18: customer 281 arrived
+INFO:root:1361.18: customer 281 queued
+INFO:root:1362.41: customer 282 arrived
+INFO:root:1362.41: customer 282 queued
+INFO:root:1362.71: customer 283 arrived
+INFO:root:1362.71: customer 283 queued
+INFO:root:1364.24: customer 278 left after 11.71
+INFO:root:1364.52: customer 279 left after 8.46
+INFO:root:1368.59: customer 280 left after 11.65
+INFO:root:1369.58: customer 284 arrived
+INFO:root:1369.58: customer 284 queued
+INFO:root:1370.13: customer 285 arrived
+INFO:root:1370.13: customer 285 queued
+INFO:root:1371.57: customer 281 left after 10.39
+INFO:root:1372.47: customer 286 arrived
+INFO:root:1372.47: customer 286 queued
+INFO:root:1378.74: customer 287 arrived
+INFO:root:1378.74: customer 287 queued
+INFO:root:1379.01: customer 282 left after 16.59
+INFO:root:1383.07: customer 288 arrived
+INFO:root:1383.07: customer 288 queued
+INFO:root:1385.86: customer 283 left after 23.14
+INFO:root:1391.52: customer 284 left after 21.93
+INFO:root:1395.32: customer 285 left after 25.19
+INFO:root:1396.47: customer 286 left after 24.00
+INFO:root:1398.17: customer 287 left after 19.43
+INFO:root:1398.56: customer 289 arrived
+INFO:root:1398.56: customer 289 queued
+INFO:root:1400.10: customer 290 arrived
+INFO:root:1400.10: customer 290 queued
+INFO:root:1404.60: customer 288 left after 21.53
+INFO:root:1405.93: customer 289 left after 7.38
+INFO:root:1406.17: customer 290 left after 6.07
+INFO:root:1406.79: customer 291 arrived
+INFO:root:1407.66: customer 291 left after 0.87
+INFO:root:1411.89: customer 292 arrived
+INFO:root:1413.01: customer 292 left after 1.12
+INFO:root:1417.55: customer 293 arrived
+INFO:root:1417.63: customer 294 arrived
+INFO:root:1417.63: customer 294 queued
+INFO:root:1418.48: customer 293 left after 0.93
+INFO:root:1420.32: customer 294 left after 2.69
+INFO:root:1436.91: customer 295 arrived
+INFO:root:1438.30: customer 296 arrived
+INFO:root:1438.30: customer 296 queued
+INFO:root:1439.25: customer 295 left after 2.34
+INFO:root:1439.34: customer 296 left after 1.04
+INFO:root:1441.52: customer 297 arrived
+INFO:root:1441.56: customer 298 arrived
+INFO:root:1441.56: customer 298 queued
+INFO:root:1441.80: customer 299 arrived
+INFO:root:1441.80: customer 299 queued
+INFO:root:1443.58: customer 297 left after 2.06
+INFO:root:1445.58: customer 298 left after 4.01
+INFO:root:1446.51: customer 299 left after 4.71
+INFO:root:1453.45: customer 300 arrived
+INFO:root:1454.14: customer 301 arrived
+INFO:root:1454.14: customer 301 queued
+INFO:root:1460.35: customer 300 left after 6.90
+INFO:root:1462.92: customer 302 arrived
+INFO:root:1462.92: customer 302 queued
+INFO:root:1463.49: customer 301 left after 9.35
+INFO:root:1466.39: customer 302 left after 3.47
+INFO:root:1467.76: customer 303 arrived
+INFO:root:1467.98: customer 303 left after 0.22
+INFO:root:1469.45: customer 304 arrived
+INFO:root:1470.30: customer 305 arrived
+INFO:root:1470.30: customer 305 queued
+INFO:root:1470.44: customer 304 left after 0.99
+INFO:root:1470.61: customer 306 arrived
+INFO:root:1470.61: customer 306 queued
+INFO:root:1473.37: customer 305 left after 3.07
+INFO:root:1474.36: customer 306 left after 3.75
+INFO:root:1479.49: customer 307 arrived
+INFO:root:1482.30: customer 308 arrived
+INFO:root:1482.30: customer 308 queued
+INFO:root:1486.47: customer 307 left after 6.98
+INFO:root:1488.17: customer 308 left after 5.87
+INFO:root:1490.37: customer 309 arrived
+INFO:root:1490.80: customer 309 left after 0.43
+INFO:root:1495.83: customer 310 arrived
+INFO:root:1496.51: customer 310 left after 0.68
+INFO:root:1499.13: customer 311 arrived
+INFO:root:1507.45: customer 311 left after 8.31
+INFO:root:1511.45: customer 312 arrived
+INFO:root:1516.76: customer 312 left after 5.32
+INFO:root:1520.26: customer 313 arrived
+INFO:root:1520.61: customer 314 arrived
+INFO:root:1520.61: customer 314 queued
+INFO:root:1522.39: customer 313 left after 2.13
+INFO:root:1525.98: customer 314 left after 5.37
+INFO:root:1528.02: customer 315 arrived
+INFO:root:1530.07: customer 316 arrived
+INFO:root:1530.07: customer 316 queued
+INFO:root:1531.17: customer 315 left after 3.16
+INFO:root:1536.12: customer 316 left after 6.05
+INFO:root:1538.67: customer 317 arrived
+INFO:root:1540.09: customer 318 arrived
+INFO:root:1540.09: customer 318 queued
+INFO:root:1540.49: customer 317 left after 1.82
+INFO:root:1545.84: customer 319 arrived
+INFO:root:1545.84: customer 319 queued
+INFO:root:1547.68: customer 320 arrived
+INFO:root:1547.68: customer 320 queued
+INFO:root:1549.54: customer 321 arrived
+INFO:root:1549.54: customer 321 queued
+INFO:root:1554.82: customer 318 left after 14.73
+INFO:root:1563.27: customer 322 arrived
+INFO:root:1563.27: customer 322 queued
+INFO:root:1565.88: customer 323 arrived
+INFO:root:1565.88: customer 323 queued
+INFO:root:1574.03: customer 319 left after 28.19
+INFO:root:1574.08: customer 320 left after 26.41
+INFO:root:1574.39: customer 321 left after 24.86
+INFO:root:1574.80: customer 322 left after 11.54
+INFO:root:1577.36: customer 323 left after 11.47
+INFO:root:1578.74: customer 324 arrived
+INFO:root:1579.34: customer 325 arrived
+INFO:root:1579.34: customer 325 queued
+INFO:root:1585.61: customer 324 left after 6.87
+INFO:root:1586.63: customer 325 left after 7.29
+INFO:root:1589.57: customer 326 arrived
+INFO:root:1595.51: customer 326 left after 5.94
+INFO:root:1608.75: customer 327 arrived
+INFO:root:1611.90: customer 327 left after 3.14
+INFO:root:1617.44: customer 328 arrived
+INFO:root:1621.17: customer 328 left after 3.73
+INFO:root:1623.48: customer 329 arrived
+INFO:root:1630.50: customer 329 left after 7.02
+INFO:root:1630.59: customer 330 arrived
+INFO:root:1631.86: customer 331 arrived
+INFO:root:1631.86: customer 331 queued
+INFO:root:1634.27: customer 332 arrived
+INFO:root:1634.27: customer 332 queued
+INFO:root:1636.02: customer 333 arrived
+INFO:root:1636.02: customer 333 queued
+INFO:root:1636.16: customer 330 left after 5.57
+INFO:root:1639.91: customer 331 left after 8.05
+INFO:root:1648.09: customer 332 left after 13.82
+INFO:root:1648.67: customer 333 left after 12.65
+INFO:root:1660.25: customer 334 arrived
+INFO:root:1665.87: customer 334 left after 5.62
+INFO:root:1668.23: customer 335 arrived
+INFO:root:1668.77: customer 335 left after 0.54
+INFO:root:1681.30: customer 336 arrived
+INFO:root:1681.67: customer 336 left after 0.38
+INFO:root:1682.00: customer 337 arrived
+INFO:root:1687.01: customer 337 left after 5.01
+INFO:root:1687.37: customer 338 arrived
+INFO:root:1691.79: customer 338 left after 4.42
+INFO:root:1704.40: customer 339 arrived
+INFO:root:1707.27: customer 339 left after 2.87
+INFO:root:1712.71: customer 340 arrived
+INFO:root:1712.80: customer 341 arrived
+INFO:root:1712.80: customer 341 queued
+INFO:root:1713.80: customer 340 left after 1.09
+INFO:root:1715.73: customer 341 left after 2.93
+INFO:root:1717.61: customer 342 arrived
+INFO:root:1717.76: customer 342 left after 0.15
+INFO:root:1719.82: customer 343 arrived
+INFO:root:1723.01: customer 343 left after 3.19
+INFO:root:1724.31: customer 344 arrived
+INFO:root:1725.06: customer 345 arrived
+INFO:root:1725.06: customer 345 queued
+INFO:root:1737.16: customer 346 arrived
+INFO:root:1737.16: customer 346 queued
+INFO:root:1738.05: customer 344 left after 13.74
+INFO:root:1743.53: customer 347 arrived
+INFO:root:1743.53: customer 347 queued
+INFO:root:1745.03: customer 345 left after 19.97
+INFO:root:1750.31: customer 346 left after 13.15
+INFO:root:1750.36: customer 347 left after 6.83
+INFO:root:1768.28: customer 348 arrived
+INFO:root:1771.35: customer 348 left after 3.07
+INFO:root:1774.98: customer 349 arrived
+INFO:root:1777.72: customer 349 left after 2.73
+INFO:root:1782.71: customer 350 arrived
+INFO:root:1785.35: customer 350 left after 2.64
+INFO:root:1785.93: customer 351 arrived
+INFO:root:1786.12: customer 351 left after 0.20
+INFO:root:1789.11: customer 352 arrived
+INFO:root:1790.29: customer 352 left after 1.19
+INFO:root:1792.92: customer 353 arrived
+INFO:root:1795.57: customer 353 left after 2.66
+INFO:root:1795.67: customer 354 arrived
+INFO:root:1796.06: customer 354 left after 0.39
+INFO:root:1797.66: customer 355 arrived
+INFO:root:1798.07: customer 356 arrived
+INFO:root:1798.07: customer 356 queued
+INFO:root:1799.77: customer 357 arrived
+INFO:root:1799.77: customer 357 queued
+INFO:root:1799.79: customer 355 left after 2.13
+INFO:root:1801.46: customer 356 left after 3.39
+INFO:root:1802.22: customer 357 left after 2.46
+INFO:root:1806.18: customer 358 arrived
+INFO:root:1806.30: customer 359 arrived
+INFO:root:1806.30: customer 359 queued
+INFO:root:1807.34: customer 360 arrived
+INFO:root:1807.34: customer 360 queued
+INFO:root:1809.35: customer 358 left after 3.16
+INFO:root:1810.47: customer 359 left after 4.17
+INFO:root:1812.70: customer 361 arrived
+INFO:root:1812.70: customer 361 queued
+INFO:root:1814.23: customer 362 arrived
+INFO:root:1814.23: customer 362 queued
+INFO:root:1814.60: customer 360 left after 7.26
+INFO:root:1815.29: customer 361 left after 2.59
+INFO:root:1818.38: customer 363 arrived
+INFO:root:1818.38: customer 363 queued
+INFO:root:1822.95: customer 362 left after 8.72
+INFO:root:1823.50: customer 363 left after 5.11
+INFO:root:1826.44: customer 364 arrived
+INFO:root:1827.34: customer 364 left after 0.91
+INFO:root:1830.60: customer 365 arrived
+INFO:root:1831.07: customer 365 left after 0.47
+INFO:root:1841.86: customer 366 arrived
+INFO:root:1842.37: customer 366 left after 0.51
+INFO:root:1844.11: customer 367 arrived
+INFO:root:1848.24: customer 368 arrived
+INFO:root:1848.24: customer 368 queued
+INFO:root:1851.64: customer 369 arrived
+INFO:root:1851.64: customer 369 queued
+INFO:root:1851.91: customer 370 arrived
+INFO:root:1851.91: customer 370 queued
+INFO:root:1855.75: customer 367 left after 11.65
+INFO:root:1861.58: customer 368 left after 13.34
+INFO:root:1862.06: customer 369 left after 10.42
+INFO:root:1864.02: customer 370 left after 12.12
+INFO:root:1866.16: customer 371 arrived
+INFO:root:1866.24: customer 372 arrived
+INFO:root:1866.24: customer 372 queued
+INFO:root:1866.51: customer 371 left after 0.35
+INFO:root:1867.65: customer 372 left after 1.41
+INFO:root:1876.71: customer 373 arrived
+INFO:root:1877.10: customer 374 arrived
+INFO:root:1877.10: customer 374 queued
+INFO:root:1879.79: customer 373 left after 3.08
+INFO:root:1883.26: customer 374 left after 6.16
+INFO:root:1883.70: customer 375 arrived
+INFO:root:1884.41: customer 375 left after 0.71
+INFO:root:1886.49: customer 376 arrived
+INFO:root:1886.99: customer 376 left after 0.50
+INFO:root:1889.18: customer 377 arrived
+INFO:root:1891.51: customer 378 arrived
+INFO:root:1891.51: customer 378 queued
+INFO:root:1895.98: customer 379 arrived
+INFO:root:1895.98: customer 379 queued
+INFO:root:1896.39: customer 380 arrived
+INFO:root:1896.39: customer 380 queued
+INFO:root:1898.08: customer 377 left after 8.91
+INFO:root:1898.42: customer 381 arrived
+INFO:root:1898.42: customer 381 queued
+INFO:root:1902.79: customer 378 left after 11.28
+INFO:root:1907.75: customer 379 left after 11.77
+INFO:root:1911.31: customer 380 left after 14.91
+INFO:root:1912.88: customer 381 left after 14.46
+INFO:root:1921.76: customer 382 arrived
+INFO:root:1923.19: customer 382 left after 1.44
+INFO:root:1926.09: customer 383 arrived
+INFO:root:1927.22: customer 383 left after 1.13
+INFO:root:1939.89: customer 384 arrived
+INFO:root:1943.75: customer 384 left after 3.86
+INFO:root:1962.42: customer 385 arrived
+INFO:root:1963.71: customer 385 left after 1.29
+INFO:root:1964.16: customer 386 arrived
+INFO:root:1966.73: customer 386 left after 2.58
+INFO:root:1969.18: customer 387 arrived
+INFO:root:1969.23: customer 388 arrived
+INFO:root:1969.23: customer 388 queued
+INFO:root:1971.00: customer 387 left after 1.82
+INFO:root:1971.47: customer 388 left after 2.24
+INFO:root:1972.43: customer 389 arrived
+INFO:root:1972.67: customer 389 left after 0.23
+INFO:root:1979.81: customer 390 arrived
+INFO:root:1980.83: customer 391 arrived
+INFO:root:1980.83: customer 391 queued
+INFO:root:1980.92: customer 390 left after 1.11
+INFO:root:1988.70: customer 392 arrived
+INFO:root:1988.70: customer 392 queued
+INFO:root:1990.68: customer 393 arrived
+INFO:root:1990.68: customer 393 queued
+INFO:root:1993.83: customer 394 arrived
+INFO:root:1993.83: customer 394 queued
+INFO:root:1994.39: customer 391 left after 13.57
+INFO:root:1995.79: customer 392 left after 7.09
+INFO:root:2000.41: customer 395 arrived
+INFO:root:2000.41: customer 395 queued
+INFO:root:2001.43: customer 396 arrived
+INFO:root:2001.43: customer 396 queued
+INFO:root:2001.93: customer 393 left after 11.26
+INFO:root:2002.26: customer 394 left after 8.43
+INFO:root:2002.29: customer 395 left after 1.88
+INFO:root:2002.74: customer 396 left after 1.31
+INFO:root:2006.77: customer 397 arrived
+INFO:root:2007.89: customer 398 arrived
+INFO:root:2007.89: customer 398 queued
+INFO:root:2009.75: customer 397 left after 2.98
+INFO:root:2009.81: customer 398 left after 1.92
+INFO:root:2011.50: customer 399 arrived
+INFO:root:2014.93: customer 399 left after 3.44
+INFO:root:2015.02: customer 400 arrived
+INFO:root:2016.00: customer 400 left after 0.98
+INFO:root:2029.65: customer 401 arrived
+INFO:root:2032.40: customer 402 arrived
+INFO:root:2032.40: customer 402 queued
+INFO:root:2033.09: customer 403 arrived
+INFO:root:2033.09: customer 403 queued
+INFO:root:2033.93: customer 401 left after 4.28
+INFO:root:2034.52: customer 404 arrived
+INFO:root:2034.52: customer 404 queued
+INFO:root:2034.88: customer 402 left after 2.49
+INFO:root:2035.25: customer 403 left after 2.16
+INFO:root:2036.30: customer 405 arrived
+INFO:root:2036.30: customer 405 queued
+INFO:root:2037.98: customer 404 left after 3.46
+INFO:root:2040.59: customer 405 left after 4.29
+INFO:root:2042.65: customer 406 arrived
+INFO:root:2045.37: customer 406 left after 2.71
+INFO:root:2047.91: customer 407 arrived
+INFO:root:2051.01: customer 407 left after 3.11
+INFO:root:2063.33: customer 408 arrived
+INFO:root:2066.59: customer 408 left after 3.26
+INFO:root:2067.07: customer 409 arrived
+INFO:root:2069.27: customer 409 left after 2.20
+INFO:root:2069.48: customer 410 arrived
+INFO:root:2073.88: customer 411 arrived
+INFO:root:2073.88: customer 411 queued
+INFO:root:2076.09: customer 410 left after 6.61
+INFO:root:2077.48: customer 412 arrived
+INFO:root:2077.48: customer 412 queued
+INFO:root:2079.79: customer 411 left after 5.91
+INFO:root:2082.08: customer 413 arrived
+INFO:root:2082.08: customer 413 queued
+INFO:root:2084.12: customer 414 arrived
+INFO:root:2084.12: customer 414 queued
+INFO:root:2084.63: customer 415 arrived
+INFO:root:2084.63: customer 415 queued
+INFO:root:2086.14: customer 416 arrived
+INFO:root:2086.14: customer 416 queued
+INFO:root:2086.94: customer 417 arrived
+INFO:root:2086.94: customer 417 queued
+INFO:root:2087.47: customer 412 left after 9.99
+INFO:root:2096.11: customer 418 arrived
+INFO:root:2096.11: customer 418 queued
+INFO:root:2098.23: customer 413 left after 16.15
+INFO:root:2099.41: customer 414 left after 15.28
+INFO:root:2099.63: customer 415 left after 15.00
+INFO:root:2109.18: customer 419 arrived
+INFO:root:2109.18: customer 419 queued
+INFO:root:2110.65: customer 416 left after 24.51
+INFO:root:2112.18: customer 420 arrived
+INFO:root:2112.18: customer 420 queued
+INFO:root:2114.18: customer 421 arrived
+INFO:root:2114.18: customer 421 queued
+INFO:root:2114.28: customer 422 arrived
+INFO:root:2114.28: customer 422 queued
+INFO:root:2115.06: customer 423 arrived
+INFO:root:2115.06: customer 423 queued
+INFO:root:2117.73: customer 417 left after 30.79
+INFO:root:2117.78: customer 424 arrived
+INFO:root:2117.78: customer 424 queued
+INFO:root:2122.15: customer 425 arrived
+INFO:root:2122.15: customer 425 queued
+INFO:root:2123.61: customer 418 left after 27.50
+INFO:root:2125.06: customer 419 left after 15.89
+INFO:root:2131.56: customer 420 left after 19.38
+INFO:root:2135.15: customer 421 left after 20.97
+INFO:root:2138.09: customer 426 arrived
+INFO:root:2138.09: customer 426 queued
+INFO:root:2145.31: customer 422 left after 31.03
+INFO:root:2149.36: customer 427 arrived
+INFO:root:2149.36: customer 427 queued
+INFO:root:2149.73: customer 423 left after 34.67
+INFO:root:2154.67: customer 424 left after 36.89
+INFO:root:2156.49: customer 425 left after 34.34
+INFO:root:2157.67: customer 426 left after 19.59
+INFO:root:2158.22: customer 427 left after 8.85
+INFO:root:2162.23: customer 428 arrived
+INFO:root:2167.18: customer 429 arrived
+INFO:root:2167.18: customer 429 queued
+INFO:root:2167.27: customer 428 left after 5.04
+INFO:root:2172.05: customer 430 arrived
+INFO:root:2172.05: customer 430 queued
+INFO:root:2173.01: customer 431 arrived
+INFO:root:2173.01: customer 431 queued
+INFO:root:2174.58: customer 429 left after 7.40
+INFO:root:2176.64: customer 430 left after 4.60
+INFO:root:2179.46: customer 432 arrived
+INFO:root:2179.46: customer 432 queued
+INFO:root:2180.37: customer 431 left after 7.36
+INFO:root:2185.25: customer 432 left after 5.79
+INFO:root:2187.44: customer 433 arrived
+INFO:root:2189.24: customer 434 arrived
+INFO:root:2189.24: customer 434 queued
+INFO:root:2193.19: customer 435 arrived
+INFO:root:2193.19: customer 435 queued
+INFO:root:2197.49: customer 436 arrived
+INFO:root:2197.49: customer 436 queued
+INFO:root:2198.51: customer 433 left after 11.07
+INFO:root:2199.72: customer 437 arrived
+INFO:root:2199.72: customer 437 queued
+INFO:root:2201.17: customer 434 left after 11.93
+INFO:root:2206.17: customer 435 left after 12.98
+INFO:root:2207.56: customer 436 left after 10.06
+INFO:root:2212.11: customer 437 left after 12.39
+INFO:root:2217.86: customer 438 arrived
+INFO:root:2220.79: customer 438 left after 2.92
+INFO:root:2224.14: customer 439 arrived
+INFO:root:2225.41: customer 440 arrived
+INFO:root:2225.41: customer 440 queued
+INFO:root:2226.28: customer 439 left after 2.14
+INFO:root:2229.84: customer 441 arrived
+INFO:root:2229.84: customer 441 queued
+INFO:root:2231.36: customer 442 arrived
+INFO:root:2231.36: customer 442 queued
+INFO:root:2239.13: customer 440 left after 13.73
+INFO:root:2240.58: customer 443 arrived
+INFO:root:2240.58: customer 443 queued
+INFO:root:2242.19: customer 444 arrived
+INFO:root:2242.19: customer 444 queued
+INFO:root:2242.89: customer 441 left after 13.05
+INFO:root:2242.96: customer 442 left after 11.60
+INFO:root:2244.24: customer 443 left after 3.66
+INFO:root:2244.58: customer 445 arrived
+INFO:root:2244.58: customer 445 queued
+INFO:root:2245.42: customer 444 left after 3.24
+INFO:root:2247.63: customer 445 left after 3.05
+INFO:root:2254.45: customer 446 arrived
+INFO:root:2259.40: customer 447 arrived
+INFO:root:2259.40: customer 447 queued
+INFO:root:2262.49: customer 446 left after 8.03
+INFO:root:2262.95: customer 447 left after 3.55
+INFO:root:2263.48: customer 448 arrived
+INFO:root:2264.00: customer 448 left after 0.51
+INFO:root:2267.57: customer 449 arrived
+INFO:root:2271.34: customer 450 arrived
+INFO:root:2271.34: customer 450 queued
+INFO:root:2274.34: customer 449 left after 6.76
+INFO:root:2275.48: customer 451 arrived
+INFO:root:2275.48: customer 451 queued
+INFO:root:2275.91: customer 452 arrived
+INFO:root:2275.91: customer 452 queued
+INFO:root:2280.64: customer 453 arrived
+INFO:root:2280.64: customer 453 queued
+INFO:root:2282.82: customer 450 left after 11.48
+INFO:root:2284.90: customer 451 left after 9.43
+INFO:root:2287.56: customer 452 left after 11.65
+INFO:root:2290.26: customer 454 arrived
+INFO:root:2290.26: customer 454 queued
+INFO:root:2291.18: customer 455 arrived
+INFO:root:2291.18: customer 455 queued
+INFO:root:2291.52: customer 453 left after 10.89
+INFO:root:2291.78: customer 454 left after 1.52
+INFO:root:2292.23: customer 455 left after 1.05
+INFO:root:2294.39: customer 456 arrived
+INFO:root:2295.81: customer 457 arrived
+INFO:root:2295.81: customer 457 queued
+INFO:root:2296.67: customer 456 left after 2.28
+INFO:root:2298.88: customer 457 left after 3.07
+INFO:root:2299.01: customer 458 arrived
+INFO:root:2299.36: customer 459 arrived
+INFO:root:2299.36: customer 459 queued
+INFO:root:2299.91: customer 458 left after 0.90
+INFO:root:2299.98: customer 459 left after 0.62
+INFO:root:2300.23: customer 460 arrived
+INFO:root:2301.53: customer 460 left after 1.30
+INFO:root:2306.30: customer 461 arrived
+INFO:root:2311.08: customer 461 left after 4.79
+INFO:root:2312.16: customer 462 arrived
+INFO:root:2312.51: customer 463 arrived
+INFO:root:2312.51: customer 463 queued
+INFO:root:2312.87: customer 462 left after 0.71
+INFO:root:2315.15: customer 464 arrived
+INFO:root:2315.15: customer 464 queued
+INFO:root:2315.77: customer 463 left after 3.27
+INFO:root:2316.08: customer 464 left after 0.93
+INFO:root:2319.48: customer 465 arrived
+INFO:root:2319.49: customer 465 left after 0.00
+INFO:root:2326.01: customer 466 arrived
+INFO:root:2329.14: customer 466 left after 3.13
+INFO:root:2339.80: customer 467 arrived
+INFO:root:2342.84: customer 468 arrived
+INFO:root:2342.84: customer 468 queued
+INFO:root:2343.06: customer 467 left after 3.26
+INFO:root:2343.18: customer 468 left after 0.34
+INFO:root:2344.46: customer 469 arrived
+INFO:root:2344.84: customer 469 left after 0.37
+INFO:root:2360.78: customer 470 arrived
+INFO:root:2365.66: customer 471 arrived
+INFO:root:2365.66: customer 471 queued
+INFO:root:2365.74: customer 472 arrived
+INFO:root:2365.74: customer 472 queued
+INFO:root:2365.81: customer 473 arrived
+INFO:root:2365.81: customer 473 queued
+INFO:root:2368.50: customer 474 arrived
+INFO:root:2368.50: customer 474 queued
+INFO:root:2371.83: customer 470 left after 11.05
+INFO:root:2373.73: customer 471 left after 8.06
+INFO:root:2374.96: customer 475 arrived
+INFO:root:2374.96: customer 475 queued
+INFO:root:2383.63: customer 476 arrived
+INFO:root:2383.63: customer 476 queued
+INFO:root:2384.83: customer 477 arrived
+INFO:root:2384.83: customer 477 queued
+INFO:root:2388.30: customer 478 arrived
+INFO:root:2388.30: customer 478 queued
+INFO:root:2388.48: customer 479 arrived
+INFO:root:2388.48: customer 479 queued
+INFO:root:2389.30: customer 472 left after 23.56
+INFO:root:2390.62: customer 480 arrived
+INFO:root:2390.62: customer 480 queued
+INFO:root:2391.05: customer 473 left after 25.23
+INFO:root:2393.04: customer 474 left after 24.54
+INFO:root:2393.58: customer 475 left after 18.61
+INFO:root:2394.72: customer 481 arrived
+INFO:root:2394.72: customer 481 queued
+INFO:root:2396.79: customer 476 left after 13.17
+INFO:root:2396.91: customer 477 left after 12.08
+INFO:root:2406.24: customer 482 arrived
+INFO:root:2406.24: customer 482 queued
+INFO:root:2408.27: customer 483 arrived
+INFO:root:2408.27: customer 483 queued
+INFO:root:2409.19: customer 484 arrived
+INFO:root:2409.19: customer 484 queued
+INFO:root:2410.47: customer 485 arrived
+INFO:root:2410.47: customer 485 queued
+INFO:root:2414.59: customer 486 arrived
+INFO:root:2414.59: customer 486 queued
+INFO:root:2415.32: customer 478 left after 27.01
+INFO:root:2417.51: customer 479 left after 29.04
+INFO:root:2423.66: customer 480 left after 33.04
+INFO:root:2425.92: customer 487 arrived
+INFO:root:2425.92: customer 487 queued
+INFO:root:2426.45: customer 481 left after 31.73
+INFO:root:2427.98: customer 482 left after 21.74
+INFO:root:2429.58: customer 488 arrived
+INFO:root:2429.58: customer 488 queued
+INFO:root:2431.34: customer 483 left after 23.08
+INFO:root:2434.36: customer 484 left after 25.18
+INFO:root:2436.60: customer 489 arrived
+INFO:root:2436.60: customer 489 queued
+INFO:root:2441.50: customer 485 left after 31.03
+INFO:root:2444.24: customer 490 arrived
+INFO:root:2444.24: customer 490 queued
+INFO:root:2445.49: customer 491 arrived
+INFO:root:2445.49: customer 491 queued
+INFO:root:2446.76: customer 492 arrived
+INFO:root:2446.76: customer 492 queued
+INFO:root:2446.92: customer 493 arrived
+INFO:root:2446.92: customer 493 queued
+INFO:root:2449.28: customer 486 left after 34.69
+INFO:root:2451.59: customer 494 arrived
+INFO:root:2451.59: customer 494 queued
+INFO:root:2453.50: customer 495 arrived
+INFO:root:2453.50: customer 495 queued
+INFO:root:2456.57: customer 487 left after 30.65
+INFO:root:2456.79: customer 496 arrived
+INFO:root:2456.79: customer 496 queued
+INFO:root:2457.14: customer 497 arrived
+INFO:root:2457.14: customer 497 queued
+INFO:root:2458.27: customer 488 left after 28.70
+INFO:root:2461.40: customer 489 left after 24.80
+INFO:root:2462.87: customer 498 arrived
+INFO:root:2462.87: customer 498 queued
+INFO:root:2466.28: customer 490 left after 22.03
+INFO:root:2467.74: customer 491 left after 22.25
+INFO:root:2469.38: customer 499 arrived
+INFO:root:2469.38: customer 499 queued
+INFO:root:2473.27: customer 500 arrived
+INFO:root:2473.27: customer 500 queued
+INFO:root:2474.76: customer 501 arrived
+INFO:root:2474.76: customer 501 queued
+INFO:root:2475.95: customer 492 left after 29.20
+INFO:root:2476.62: customer 493 left after 29.70
+INFO:root:2478.45: customer 494 left after 26.86
+INFO:root:2480.78: customer 495 left after 27.28
+INFO:root:2484.83: customer 496 left after 28.04
+INFO:root:2485.12: customer 502 arrived
+INFO:root:2485.12: customer 502 queued
+INFO:root:2486.99: customer 497 left after 29.85
+INFO:root:2491.55: customer 498 left after 28.68
+INFO:root:2492.41: customer 503 arrived
+INFO:root:2492.41: customer 503 queued
+INFO:root:2495.44: customer 504 arrived
+INFO:root:2495.44: customer 504 queued
+INFO:root:2496.88: customer 505 arrived
+INFO:root:2496.88: customer 505 queued
+INFO:root:2502.26: customer 506 arrived
+INFO:root:2502.26: customer 506 queued
+INFO:root:2504.80: customer 499 left after 35.42
+INFO:root:2504.97: customer 507 arrived
+INFO:root:2504.97: customer 507 queued
+INFO:root:2506.06: customer 500 left after 32.80
+INFO:root:2509.22: customer 508 arrived
+INFO:root:2509.22: customer 508 queued
+INFO:root:2515.82: customer 501 left after 41.06
+INFO:root:2517.72: customer 502 left after 32.60
+INFO:root:2521.54: customer 503 left after 29.13
+INFO:root:2521.76: customer 504 left after 26.33
+INFO:root:2525.88: customer 505 left after 29.00
+INFO:root:2530.34: customer 509 arrived
+INFO:root:2530.34: customer 509 queued
+INFO:root:2531.66: customer 506 left after 29.41
+INFO:root:2534.71: customer 507 left after 29.73
+INFO:root:2534.75: customer 508 left after 25.53
+INFO:root:2535.13: customer 509 left after 4.79
+INFO:root:2541.39: customer 510 arrived
+INFO:root:2542.26: customer 511 arrived
+INFO:root:2542.26: customer 511 queued
+INFO:root:2542.40: customer 512 arrived
+INFO:root:2542.40: customer 512 queued
+INFO:root:2543.85: customer 513 arrived
+INFO:root:2543.85: customer 513 queued
+INFO:root:2545.36: customer 510 left after 3.97
+INFO:root:2546.42: customer 514 arrived
+INFO:root:2546.42: customer 514 queued
+INFO:root:2547.18: customer 511 left after 4.93
+INFO:root:2547.28: customer 512 left after 4.89
+INFO:root:2549.13: customer 513 left after 5.27
+INFO:root:2550.91: customer 515 arrived
+INFO:root:2550.91: customer 515 queued
+INFO:root:2556.06: customer 516 arrived
+INFO:root:2556.06: customer 516 queued
+INFO:root:2559.26: customer 514 left after 12.84
+INFO:root:2559.48: customer 517 arrived
+INFO:root:2559.48: customer 517 queued
+INFO:root:2560.56: customer 518 arrived
+INFO:root:2560.56: customer 518 queued
+INFO:root:2561.14: customer 519 arrived
+INFO:root:2561.14: customer 519 queued
+INFO:root:2563.68: customer 515 left after 12.77
+INFO:root:2568.08: customer 516 left after 12.02
+INFO:root:2568.78: customer 517 left after 9.29
+INFO:root:2572.10: customer 518 left after 11.54
+INFO:root:2572.12: customer 520 arrived
+INFO:root:2572.12: customer 520 queued
+INFO:root:2572.50: customer 519 left after 11.36
+INFO:root:2575.28: customer 520 left after 3.16
+INFO:root:2586.33: customer 521 arrived
+INFO:root:2587.97: customer 521 left after 1.63
+INFO:root:2588.62: customer 522 arrived
+INFO:root:2588.99: customer 522 left after 0.37
+INFO:root:2590.89: customer 523 arrived
+INFO:root:2591.72: customer 524 arrived
+INFO:root:2591.72: customer 524 queued
+INFO:root:2599.56: customer 523 left after 8.67
+INFO:root:2600.96: customer 524 left after 9.24
+INFO:root:2601.87: customer 525 arrived
+INFO:root:2602.22: customer 525 left after 0.35
+INFO:root:2604.23: customer 526 arrived
+INFO:root:2606.58: customer 526 left after 2.35
+INFO:root:2608.05: customer 527 arrived
+INFO:root:2609.73: customer 528 arrived
+INFO:root:2609.73: customer 528 queued
+INFO:root:2611.00: customer 527 left after 2.95
+INFO:root:2615.28: customer 528 left after 5.55
+INFO:root:2615.90: customer 529 arrived
+INFO:root:2617.62: customer 529 left after 1.72
+INFO:root:2631.46: customer 530 arrived
+INFO:root:2632.37: customer 531 arrived
+INFO:root:2632.37: customer 531 queued
+INFO:root:2634.63: customer 530 left after 3.17
+INFO:root:2635.68: customer 531 left after 3.31
+INFO:root:2637.22: customer 532 arrived
+INFO:root:2637.30: customer 532 left after 0.07
+INFO:root:2659.10: customer 533 arrived
+INFO:root:2663.20: customer 533 left after 4.10
+INFO:root:2665.82: customer 534 arrived
+INFO:root:2671.70: customer 535 arrived
+INFO:root:2671.70: customer 535 queued
+INFO:root:2672.59: customer 534 left after 6.77
+INFO:root:2674.27: customer 536 arrived
+INFO:root:2674.27: customer 536 queued
+INFO:root:2679.83: customer 535 left after 8.13
+INFO:root:2693.04: customer 537 arrived
+INFO:root:2693.04: customer 537 queued
+INFO:root:2696.17: customer 536 left after 21.90
+INFO:root:2696.48: customer 538 arrived
+INFO:root:2696.48: customer 538 queued
+INFO:root:2697.78: customer 539 arrived
+INFO:root:2697.78: customer 539 queued
+INFO:root:2699.46: customer 537 left after 6.42
+INFO:root:2700.90: customer 538 left after 4.42
+INFO:root:2701.97: customer 540 arrived
+INFO:root:2701.97: customer 540 queued
+INFO:root:2703.81: customer 541 arrived
+INFO:root:2703.81: customer 541 queued
+INFO:root:2705.85: customer 539 left after 8.06
+INFO:root:2706.24: customer 540 left after 4.27
+INFO:root:2708.38: customer 542 arrived
+INFO:root:2708.38: customer 542 queued
+INFO:root:2709.61: customer 541 left after 5.80
+INFO:root:2712.16: customer 542 left after 3.78
+INFO:root:2713.97: customer 543 arrived
+INFO:root:2714.00: customer 544 arrived
+INFO:root:2714.00: customer 544 queued
+INFO:root:2716.04: customer 543 left after 2.07
+INFO:root:2716.13: customer 544 left after 2.13
+INFO:root:2729.04: customer 545 arrived
+INFO:root:2732.34: customer 545 left after 3.30
+INFO:root:2740.32: customer 546 arrived
+INFO:root:2741.04: customer 546 left after 0.72
+INFO:root:2753.14: customer 547 arrived
+INFO:root:2754.20: customer 548 arrived
+INFO:root:2754.20: customer 548 queued
+INFO:root:2754.76: customer 547 left after 1.62
+INFO:root:2757.05: customer 548 left after 2.85
+INFO:root:2759.98: customer 549 arrived
+INFO:root:2760.33: customer 549 left after 0.36
+INFO:root:2761.10: customer 550 arrived
+INFO:root:2761.42: customer 551 arrived
+INFO:root:2761.42: customer 551 queued
+INFO:root:2763.63: customer 552 arrived
+INFO:root:2763.63: customer 552 queued
+INFO:root:2765.96: customer 553 arrived
+INFO:root:2765.96: customer 553 queued
+INFO:root:2766.87: customer 554 arrived
+INFO:root:2766.87: customer 554 queued
+INFO:root:2767.74: customer 550 left after 6.64
+INFO:root:2771.09: customer 551 left after 9.66
+INFO:root:2774.52: customer 552 left after 10.89
+INFO:root:2775.23: customer 553 left after 9.26
+INFO:root:2778.16: customer 554 left after 11.29
+INFO:root:2778.51: customer 555 arrived
+INFO:root:2779.12: customer 556 arrived
+INFO:root:2779.12: customer 556 queued
+INFO:root:2780.04: customer 557 arrived
+INFO:root:2780.04: customer 557 queued
+INFO:root:2782.34: customer 555 left after 3.83
+INFO:root:2784.55: customer 556 left after 5.42
+INFO:root:2787.74: customer 558 arrived
+INFO:root:2787.74: customer 558 queued
+INFO:root:2792.16: customer 559 arrived
+INFO:root:2792.16: customer 559 queued
+INFO:root:2794.06: customer 557 left after 14.02
+INFO:root:2794.81: customer 560 arrived
+INFO:root:2794.81: customer 560 queued
+INFO:root:2795.46: customer 561 arrived
+INFO:root:2795.46: customer 561 queued
+INFO:root:2795.76: customer 558 left after 8.02
+INFO:root:2796.11: customer 559 left after 3.95
+INFO:root:2803.97: customer 560 left after 9.16
+INFO:root:2804.03: customer 562 arrived
+INFO:root:2804.03: customer 562 queued
+INFO:root:2805.70: customer 561 left after 10.24
+INFO:root:2805.76: customer 562 left after 1.73
+INFO:root:2806.12: customer 563 arrived
+INFO:root:2806.26: customer 563 left after 0.14
+INFO:root:2811.57: customer 564 arrived
+INFO:root:2812.50: customer 564 left after 0.93
+INFO:root:2815.73: customer 565 arrived
+INFO:root:2820.75: customer 566 arrived
+INFO:root:2820.75: customer 566 queued
+INFO:root:2821.24: customer 567 arrived
+INFO:root:2821.24: customer 567 queued
+INFO:root:2822.35: customer 565 left after 6.62
+INFO:root:2823.34: customer 568 arrived
+INFO:root:2823.34: customer 568 queued
+INFO:root:2823.37: customer 569 arrived
+INFO:root:2823.37: customer 569 queued
+INFO:root:2824.39: customer 570 arrived
+INFO:root:2824.39: customer 570 queued
+INFO:root:2826.17: customer 566 left after 5.42
+INFO:root:2826.53: customer 567 left after 5.28
+INFO:root:2828.40: customer 568 left after 5.06
+INFO:root:2828.99: customer 571 arrived
+INFO:root:2828.99: customer 571 queued
+INFO:root:2832.84: customer 572 arrived
+INFO:root:2832.84: customer 572 queued
+INFO:root:2834.75: customer 569 left after 11.37
+INFO:root:2836.02: customer 573 arrived
+INFO:root:2836.02: customer 573 queued
+INFO:root:2840.10: customer 570 left after 15.71
+INFO:root:2840.80: customer 574 arrived
+INFO:root:2840.80: customer 574 queued
+INFO:root:2841.40: customer 575 arrived
+INFO:root:2841.40: customer 575 queued
+INFO:root:2841.62: customer 576 arrived
+INFO:root:2841.62: customer 576 queued
+INFO:root:2842.24: customer 571 left after 13.24
+INFO:root:2848.35: customer 572 left after 15.50
+INFO:root:2849.42: customer 577 arrived
+INFO:root:2849.42: customer 577 queued
+INFO:root:2849.54: customer 578 arrived
+INFO:root:2849.54: customer 578 queued
+INFO:root:2849.97: customer 573 left after 13.96
+INFO:root:2855.10: customer 574 left after 14.29
+INFO:root:2860.21: customer 575 left after 18.81
+INFO:root:2860.26: customer 576 left after 18.65
+INFO:root:2862.17: customer 579 arrived
+INFO:root:2862.17: customer 579 queued
+INFO:root:2863.26: customer 580 arrived
+INFO:root:2863.26: customer 580 queued
+INFO:root:2864.39: customer 577 left after 14.97
+INFO:root:2865.40: customer 578 left after 15.86
+INFO:root:2868.58: customer 581 arrived
+INFO:root:2868.58: customer 581 queued
+INFO:root:2871.19: customer 579 left after 9.02
+INFO:root:2871.47: customer 580 left after 8.21
+INFO:root:2873.89: customer 581 left after 5.31
+INFO:root:2876.56: customer 582 arrived
+INFO:root:2879.80: customer 583 arrived
+INFO:root:2879.80: customer 583 queued
+INFO:root:2887.51: customer 582 left after 10.95
+INFO:root:2896.02: customer 583 left after 16.22
+INFO:root:2896.94: customer 584 arrived
+INFO:root:2897.92: customer 584 left after 0.97
+INFO:root:2900.20: customer 585 arrived
+INFO:root:2901.14: customer 585 left after 0.95
+INFO:root:2905.54: customer 586 arrived
+INFO:root:2907.01: customer 587 arrived
+INFO:root:2907.01: customer 587 queued
+INFO:root:2907.24: customer 588 arrived
+INFO:root:2907.24: customer 588 queued
+INFO:root:2908.35: customer 589 arrived
+INFO:root:2908.35: customer 589 queued
+INFO:root:2908.86: customer 590 arrived
+INFO:root:2908.86: customer 590 queued
+INFO:root:2910.14: customer 586 left after 4.60
+INFO:root:2917.10: customer 587 left after 10.08
+INFO:root:2917.89: customer 588 left after 10.64
+INFO:root:2918.57: customer 589 left after 10.21
+INFO:root:2928.97: customer 590 left after 20.10
+INFO:root:2933.78: customer 591 arrived
+INFO:root:2934.43: customer 592 arrived
+INFO:root:2934.43: customer 592 queued
+INFO:root:2934.67: customer 591 left after 0.89
+INFO:root:2936.45: customer 592 left after 2.01
+INFO:root:2946.66: customer 593 arrived
+INFO:root:2946.79: customer 594 arrived
+INFO:root:2946.79: customer 594 queued
+INFO:root:2946.88: customer 595 arrived
+INFO:root:2946.88: customer 595 queued
+INFO:root:2949.23: customer 596 arrived
+INFO:root:2949.23: customer 596 queued
+INFO:root:2949.38: customer 593 left after 2.71
+INFO:root:2949.75: customer 594 left after 2.96
+INFO:root:2953.03: customer 597 arrived
+INFO:root:2953.03: customer 597 queued
+INFO:root:2955.92: customer 598 arrived
+INFO:root:2955.92: customer 598 queued
+INFO:root:2957.16: customer 599 arrived
+INFO:root:2957.16: customer 599 queued
+INFO:root:2959.00: customer 595 left after 12.12
+INFO:root:2959.24: customer 596 left after 10.01
+INFO:root:2959.90: customer 597 left after 6.87
+INFO:root:2960.18: customer 598 left after 4.26
+INFO:root:2961.01: customer 600 arrived
+INFO:root:2961.01: customer 600 queued
+INFO:root:2967.27: customer 601 arrived
+INFO:root:2967.27: customer 601 queued
+INFO:root:2971.69: customer 602 arrived
+INFO:root:2971.69: customer 602 queued
+INFO:root:2974.64: customer 599 left after 17.49
+INFO:root:2975.86: customer 600 left after 14.84
+INFO:root:2976.76: customer 601 left after 9.49
+INFO:root:2976.93: customer 602 left after 5.25
+INFO:root:2978.68: customer 603 arrived
+INFO:root:2979.61: customer 603 left after 0.93
+INFO:root:2992.67: customer 604 arrived
+INFO:root:2993.58: customer 605 arrived
+INFO:root:2993.58: customer 605 queued
+INFO:root:2994.13: customer 606 arrived
+INFO:root:2994.13: customer 606 queued
+INFO:root:2995.83: customer 604 left after 3.16
+INFO:root:2998.09: customer 607 arrived
+INFO:root:2998.09: customer 607 queued
+INFO:root:2999.26: customer 608 arrived
+INFO:root:2999.26: customer 608 queued
+INFO:root:3002.75: customer 605 left after 9.17
+INFO:root:3003.82: customer 606 left after 9.69
+INFO:root:3004.30: customer 609 arrived
+INFO:root:3004.30: customer 609 queued
+INFO:root:3006.67: customer 607 left after 8.58
+INFO:root:3007.91: customer 610 arrived
+INFO:root:3007.91: customer 610 queued
+INFO:root:3008.15: customer 608 left after 8.89
+INFO:root:3011.78: customer 609 left after 7.48
+INFO:root:3012.99: customer 611 arrived
+INFO:root:3012.99: customer 611 queued
+INFO:root:3014.25: customer 610 left after 6.34
+INFO:root:3014.77: customer 611 left after 1.78
+INFO:root:3015.27: customer 612 arrived
+INFO:root:3016.25: customer 613 arrived
+INFO:root:3016.25: customer 613 queued
+INFO:root:3017.45: customer 614 arrived
+INFO:root:3017.45: customer 614 queued
+INFO:root:3018.32: customer 615 arrived
+INFO:root:3018.32: customer 615 queued
+INFO:root:3018.78: customer 616 arrived
+INFO:root:3018.78: customer 616 queued
+INFO:root:3020.51: customer 612 left after 5.25
+INFO:root:3024.77: customer 613 left after 8.52
+INFO:root:3028.98: customer 614 left after 11.54
+INFO:root:3029.71: customer 615 left after 11.39
+INFO:root:3034.47: customer 617 arrived
+INFO:root:3034.47: customer 617 queued
+INFO:root:3039.80: customer 616 left after 21.03
+INFO:root:3045.39: customer 617 left after 10.92
+INFO:root:3047.36: customer 618 arrived
+INFO:root:3048.18: customer 619 arrived
+INFO:root:3048.18: customer 619 queued
+INFO:root:3048.24: customer 620 arrived
+INFO:root:3048.24: customer 620 queued
+INFO:root:3048.38: customer 618 left after 1.02
+INFO:root:3052.93: customer 619 left after 4.75
+INFO:root:3053.93: customer 620 left after 5.68
+INFO:root:3055.42: customer 621 arrived
+INFO:root:3058.27: customer 621 left after 2.85
+INFO:root:3059.43: customer 622 arrived
+INFO:root:3059.57: customer 622 left after 0.14
+INFO:root:3060.58: customer 623 arrived
+INFO:root:3061.43: customer 624 arrived
+INFO:root:3061.43: customer 624 queued
+INFO:root:3062.57: customer 623 left after 1.99
+INFO:root:3064.08: customer 624 left after 2.65
+INFO:root:3065.41: customer 625 arrived
+INFO:root:3066.49: customer 625 left after 1.08
+INFO:root:3066.51: customer 626 arrived
+INFO:root:3067.66: customer 627 arrived
+INFO:root:3067.66: customer 627 queued
+INFO:root:3072.66: customer 626 left after 6.14
+INFO:root:3074.34: customer 627 left after 6.68
+INFO:root:3074.79: customer 628 arrived
+INFO:root:3076.12: customer 629 arrived
+INFO:root:3076.12: customer 629 queued
+INFO:root:3076.84: customer 628 left after 2.04
+INFO:root:3077.50: customer 630 arrived
+INFO:root:3077.50: customer 630 queued
+INFO:root:3080.18: customer 629 left after 4.06
+INFO:root:3081.82: customer 631 arrived
+INFO:root:3081.82: customer 631 queued
+INFO:root:3081.97: customer 630 left after 4.48
+INFO:root:3083.77: customer 632 arrived
+INFO:root:3083.77: customer 632 queued
+INFO:root:3084.33: customer 633 arrived
+INFO:root:3084.33: customer 633 queued
+INFO:root:3084.43: customer 631 left after 2.60
+INFO:root:3087.20: customer 634 arrived
+INFO:root:3087.20: customer 634 queued
+INFO:root:3088.27: customer 635 arrived
+INFO:root:3088.27: customer 635 queued
+INFO:root:3091.86: customer 632 left after 8.09
+INFO:root:3092.43: customer 633 left after 8.11
+INFO:root:3093.37: customer 636 arrived
+INFO:root:3093.37: customer 636 queued
+INFO:root:3098.22: customer 637 arrived
+INFO:root:3098.22: customer 637 queued
+INFO:root:3100.55: customer 638 arrived
+INFO:root:3100.55: customer 638 queued
+INFO:root:3105.20: customer 639 arrived
+INFO:root:3105.20: customer 639 queued
+INFO:root:3105.31: customer 634 left after 18.11
+INFO:root:3105.79: customer 635 left after 17.52
+INFO:root:3106.65: customer 640 arrived
+INFO:root:3106.65: customer 640 queued
+INFO:root:3107.02: customer 636 left after 13.64
+INFO:root:3107.99: customer 641 arrived
+INFO:root:3107.99: customer 641 queued
+INFO:root:3108.30: customer 637 left after 10.08
+INFO:root:3109.57: customer 638 left after 9.02
+INFO:root:3113.79: customer 639 left after 8.59
+INFO:root:3113.82: customer 640 left after 7.17
+INFO:root:3114.22: customer 642 arrived
+INFO:root:3114.22: customer 642 queued
+INFO:root:3114.94: customer 641 left after 6.95
+INFO:root:3115.17: customer 643 arrived
+INFO:root:3115.17: customer 643 queued
+INFO:root:3115.68: customer 642 left after 1.47
+INFO:root:3120.00: customer 643 left after 4.84
+INFO:root:3145.52: customer 644 arrived
+INFO:root:3147.14: customer 645 arrived
+INFO:root:3147.14: customer 645 queued
+INFO:root:3147.97: customer 646 arrived
+INFO:root:3147.97: customer 646 queued
+INFO:root:3148.46: customer 644 left after 2.94
+INFO:root:3160.65: customer 645 left after 13.51
+INFO:root:3160.90: customer 647 arrived
+INFO:root:3160.90: customer 647 queued
+INFO:root:3161.46: customer 646 left after 13.49
+INFO:root:3163.47: customer 647 left after 2.56
+INFO:root:3172.49: customer 648 arrived
+INFO:root:3174.71: customer 648 left after 2.22
+INFO:root:3178.84: customer 649 arrived
+INFO:root:3179.60: customer 649 left after 0.76
+INFO:root:3182.42: customer 650 arrived
+INFO:root:3184.12: customer 650 left after 1.70
+INFO:root:3188.07: customer 651 arrived
+INFO:root:3191.79: customer 651 left after 3.72
+INFO:root:3194.67: customer 652 arrived
+INFO:root:3194.80: customer 652 left after 0.13
+INFO:root:3201.50: customer 653 arrived
+INFO:root:3206.84: customer 653 left after 5.34
+INFO:root:3211.68: customer 654 arrived
+INFO:root:3211.99: customer 655 arrived
+INFO:root:3211.99: customer 655 queued
+INFO:root:3216.43: customer 654 left after 4.74
+INFO:root:3217.74: customer 655 left after 5.75
+INFO:root:3217.81: customer 656 arrived
+INFO:root:3218.18: customer 656 left after 0.38
+INFO:root:3222.85: customer 657 arrived
+INFO:root:3223.93: customer 658 arrived
+INFO:root:3223.93: customer 658 queued
+INFO:root:3224.51: customer 657 left after 1.66
+INFO:root:3232.27: customer 658 left after 8.34
+INFO:root:3234.56: customer 659 arrived
+INFO:root:3234.59: customer 659 left after 0.03
+INFO:root:3240.05: customer 660 arrived
+INFO:root:3240.47: customer 660 left after 0.41
+INFO:root:3246.46: customer 661 arrived
+INFO:root:3248.24: customer 661 left after 1.79
+INFO:root:3248.68: customer 662 arrived
+INFO:root:3248.98: customer 663 arrived
+INFO:root:3248.98: customer 663 queued
+INFO:root:3250.59: customer 662 left after 1.91
+INFO:root:3251.34: customer 663 left after 2.36
+INFO:root:3255.36: customer 664 arrived
+INFO:root:3258.11: customer 665 arrived
+INFO:root:3258.11: customer 665 queued
+INFO:root:3258.63: customer 666 arrived
+INFO:root:3258.63: customer 666 queued
+INFO:root:3259.14: customer 664 left after 3.78
+INFO:root:3259.38: customer 667 arrived
+INFO:root:3259.38: customer 667 queued
+INFO:root:3260.42: customer 665 left after 2.31
+INFO:root:3262.17: customer 668 arrived
+INFO:root:3262.17: customer 668 queued
+INFO:root:3263.37: customer 666 left after 4.74
+INFO:root:3263.51: customer 667 left after 4.13
+INFO:root:3265.21: customer 669 arrived
+INFO:root:3265.21: customer 669 queued
+INFO:root:3266.50: customer 670 arrived
+INFO:root:3266.50: customer 670 queued
+INFO:root:3267.06: customer 668 left after 4.89
+INFO:root:3270.31: customer 669 left after 5.11
+INFO:root:3276.85: customer 671 arrived
+INFO:root:3276.85: customer 671 queued
+INFO:root:3280.23: customer 672 arrived
+INFO:root:3280.23: customer 672 queued
+INFO:root:3283.22: customer 670 left after 16.72
+INFO:root:3283.24: customer 671 left after 6.39
+INFO:root:3286.13: customer 672 left after 5.90
+INFO:root:3286.16: customer 673 arrived
+INFO:root:3292.01: customer 674 arrived
+INFO:root:3292.01: customer 674 queued
+INFO:root:3292.16: customer 673 left after 6.01
+INFO:root:3294.39: customer 674 left after 2.38
+INFO:root:3294.94: customer 675 arrived
+INFO:root:3295.56: customer 676 arrived
+INFO:root:3295.56: customer 676 queued
+INFO:root:3299.39: customer 677 arrived
+INFO:root:3299.39: customer 677 queued
+INFO:root:3300.34: customer 678 arrived
+INFO:root:3300.34: customer 678 queued
+INFO:root:3303.08: customer 675 left after 8.14
+INFO:root:3303.25: customer 676 left after 7.70
+INFO:root:3305.13: customer 679 arrived
+INFO:root:3305.13: customer 679 queued
+INFO:root:3307.13: customer 677 left after 7.73
+INFO:root:3312.03: customer 678 left after 11.69
+INFO:root:3312.53: customer 679 left after 7.40
+INFO:root:3316.71: customer 680 arrived
+INFO:root:3317.02: customer 681 arrived
+INFO:root:3317.02: customer 681 queued
+INFO:root:3318.56: customer 680 left after 1.85
+INFO:root:3319.07: customer 681 left after 2.06
+INFO:root:3325.65: customer 682 arrived
+INFO:root:3327.19: customer 682 left after 1.54
+INFO:root:3335.05: customer 683 arrived
+INFO:root:3337.45: customer 684 arrived
+INFO:root:3337.45: customer 684 queued
+INFO:root:3337.51: customer 685 arrived
+INFO:root:3337.51: customer 685 queued
+INFO:root:3340.92: customer 683 left after 5.87
+INFO:root:3341.29: customer 686 arrived
+INFO:root:3341.29: customer 686 queued
+INFO:root:3343.80: customer 687 arrived
+INFO:root:3343.80: customer 687 queued
+INFO:root:3344.37: customer 684 left after 6.92
+INFO:root:3345.08: customer 685 left after 7.57
+INFO:root:3346.41: customer 686 left after 5.11
+INFO:root:3347.37: customer 688 arrived
+INFO:root:3347.37: customer 688 queued
+INFO:root:3347.46: customer 689 arrived
+INFO:root:3347.46: customer 689 queued
+INFO:root:3347.65: customer 690 arrived
+INFO:root:3347.65: customer 690 queued
+INFO:root:3350.33: customer 687 left after 6.53
+INFO:root:3350.38: customer 691 arrived
+INFO:root:3350.38: customer 691 queued
+INFO:root:3350.41: customer 692 arrived
+INFO:root:3350.41: customer 692 queued
+INFO:root:3350.58: customer 688 left after 3.20
+INFO:root:3352.30: customer 689 left after 4.84
+INFO:root:3352.72: customer 693 arrived
+INFO:root:3352.72: customer 693 queued
+INFO:root:3353.52: customer 694 arrived
+INFO:root:3353.52: customer 694 queued
+INFO:root:3354.65: customer 690 left after 6.99
+INFO:root:3356.39: customer 695 arrived
+INFO:root:3356.39: customer 695 queued
+INFO:root:3357.51: customer 696 arrived
+INFO:root:3357.51: customer 696 queued
+INFO:root:3358.87: customer 697 arrived
+INFO:root:3358.87: customer 697 queued
+INFO:root:3364.43: customer 698 arrived
+INFO:root:3364.43: customer 698 queued
+INFO:root:3364.84: customer 699 arrived
+INFO:root:3364.84: customer 699 queued
+INFO:root:3368.07: customer 691 left after 17.69
+INFO:root:3368.55: customer 692 left after 18.14
+INFO:root:3372.91: customer 700 arrived
+INFO:root:3372.91: customer 700 queued
+INFO:root:3373.80: customer 701 arrived
+INFO:root:3373.80: customer 701 queued
+INFO:root:3375.06: customer 693 left after 22.35
+INFO:root:3376.50: customer 702 arrived
+INFO:root:3376.50: customer 702 queued
+INFO:root:3377.60: customer 694 left after 24.08
+INFO:root:3378.17: customer 695 left after 21.78
+INFO:root:3378.95: customer 696 left after 21.43
+INFO:root:3381.49: customer 697 left after 22.63
+INFO:root:3383.08: customer 703 arrived
+INFO:root:3383.08: customer 703 queued
+INFO:root:3383.14: customer 704 arrived
+INFO:root:3383.14: customer 704 queued
+INFO:root:3383.29: customer 698 left after 18.85
+INFO:root:3383.60: customer 705 arrived
+INFO:root:3383.60: customer 705 queued
+INFO:root:3384.79: customer 699 left after 19.96
+INFO:root:3385.09: customer 700 left after 12.18
+INFO:root:3388.65: customer 701 left after 14.85
+INFO:root:3389.04: customer 702 left after 12.54
+INFO:root:3390.68: customer 703 left after 7.59
+INFO:root:3393.61: customer 704 left after 10.47
+INFO:root:3397.50: customer 706 arrived
+INFO:root:3397.50: customer 706 queued
+INFO:root:3404.27: customer 705 left after 20.67
+INFO:root:3405.71: customer 706 left after 8.21
+INFO:root:3408.95: customer 707 arrived
+INFO:root:3409.16: customer 707 left after 0.21
+INFO:root:3411.28: customer 708 arrived
+INFO:root:3415.51: customer 708 left after 4.23
+INFO:root:3415.68: customer 709 arrived
+INFO:root:3416.67: customer 709 left after 0.99
+INFO:root:3418.22: customer 710 arrived
+INFO:root:3418.69: customer 710 left after 0.47
+INFO:root:3420.60: customer 711 arrived
+INFO:root:3421.26: customer 711 left after 0.66
+INFO:root:3423.60: customer 712 arrived
+INFO:root:3430.19: customer 713 arrived
+INFO:root:3430.19: customer 713 queued
+INFO:root:3434.54: customer 714 arrived
+INFO:root:3434.54: customer 714 queued
+INFO:root:3435.81: customer 712 left after 12.20
+INFO:root:3437.03: customer 713 left after 6.85
+INFO:root:3437.50: customer 714 left after 2.96
+INFO:root:3442.00: customer 715 arrived
+INFO:root:3442.32: customer 716 arrived
+INFO:root:3442.32: customer 716 queued
+INFO:root:3442.42: customer 717 arrived
+INFO:root:3442.42: customer 717 queued
+INFO:root:3450.29: customer 715 left after 8.29
+INFO:root:3451.19: customer 718 arrived
+INFO:root:3451.19: customer 718 queued
+INFO:root:3454.86: customer 719 arrived
+INFO:root:3454.86: customer 719 queued
+INFO:root:3455.08: customer 716 left after 12.76
+INFO:root:3455.10: customer 720 arrived
+INFO:root:3455.10: customer 720 queued
+INFO:root:3456.07: customer 721 arrived
+INFO:root:3456.07: customer 721 queued
+INFO:root:3456.42: customer 717 left after 14.00
+INFO:root:3460.57: customer 722 arrived
+INFO:root:3460.57: customer 722 queued
+INFO:root:3460.93: customer 723 arrived
+INFO:root:3460.93: customer 723 queued
+INFO:root:3463.66: customer 718 left after 12.46
+INFO:root:3466.67: customer 719 left after 11.81
+INFO:root:3468.65: customer 724 arrived
+INFO:root:3468.65: customer 724 queued
+INFO:root:3470.99: customer 725 arrived
+INFO:root:3470.99: customer 725 queued
+INFO:root:3472.95: customer 726 arrived
+INFO:root:3472.95: customer 726 queued
+INFO:root:3474.94: customer 720 left after 19.84
+INFO:root:3478.59: customer 727 arrived
+INFO:root:3478.59: customer 727 queued
+INFO:root:3480.34: customer 721 left after 24.27
+INFO:root:3480.89: customer 722 left after 20.32
+INFO:root:3481.09: customer 728 arrived
+INFO:root:3481.09: customer 728 queued
+INFO:root:3484.27: customer 729 arrived
+INFO:root:3484.27: customer 729 queued
+INFO:root:3485.69: customer 723 left after 24.76
+INFO:root:3486.88: customer 724 left after 18.23
+INFO:root:3487.74: customer 730 arrived
+INFO:root:3487.74: customer 730 queued
+INFO:root:3487.99: customer 731 arrived
+INFO:root:3487.99: customer 731 queued
+INFO:root:3490.95: customer 732 arrived
+INFO:root:3490.95: customer 732 queued
+INFO:root:3491.84: customer 725 left after 20.85
+INFO:root:3492.18: customer 726 left after 19.23
+INFO:root:3496.44: customer 733 arrived
+INFO:root:3496.44: customer 733 queued
+INFO:root:3496.95: customer 727 left after 18.36
+INFO:root:3501.98: customer 734 arrived
+INFO:root:3501.98: customer 734 queued
+INFO:root:3502.29: customer 728 left after 21.20
+INFO:root:3507.32: customer 729 left after 23.06
+INFO:root:3509.29: customer 730 left after 21.55
+INFO:root:3510.36: customer 731 left after 22.37
+INFO:root:3510.52: customer 735 arrived
+INFO:root:3510.52: customer 735 queued
+INFO:root:3510.72: customer 736 arrived
+INFO:root:3510.72: customer 736 queued
+INFO:root:3512.13: customer 732 left after 21.19
+INFO:root:3514.22: customer 733 left after 17.78
+INFO:root:3517.13: customer 734 left after 15.15
+INFO:root:3519.37: customer 737 arrived
+INFO:root:3519.37: customer 737 queued
+INFO:root:3519.78: customer 738 arrived
+INFO:root:3519.78: customer 738 queued
+INFO:root:3521.07: customer 735 left after 10.55
+INFO:root:3521.70: customer 739 arrived
+INFO:root:3521.70: customer 739 queued
+INFO:root:3524.96: customer 736 left after 14.24
+INFO:root:3527.15: customer 740 arrived
+INFO:root:3527.15: customer 740 queued
+INFO:root:3529.90: customer 741 arrived
+INFO:root:3529.90: customer 741 queued
+INFO:root:3530.33: customer 737 left after 10.96
+INFO:root:3531.34: customer 738 left after 11.56
+INFO:root:3533.73: customer 739 left after 12.03
+INFO:root:3534.03: customer 740 left after 6.88
+INFO:root:3534.19: customer 742 arrived
+INFO:root:3534.19: customer 742 queued
+INFO:root:3537.59: customer 741 left after 7.70
+INFO:root:3542.09: customer 742 left after 7.91
+INFO:root:3556.05: customer 743 arrived
+INFO:root:3556.82: customer 743 left after 0.77
+INFO:root:3566.94: customer 744 arrived
+INFO:root:3573.68: customer 745 arrived
+INFO:root:3573.68: customer 745 queued
+INFO:root:3575.00: customer 744 left after 8.06
+INFO:root:3576.80: customer 745 left after 3.12
+INFO:root:3580.26: customer 746 arrived
+INFO:root:3581.00: customer 747 arrived
+INFO:root:3581.00: customer 747 queued
+INFO:root:3583.12: customer 748 arrived
+INFO:root:3583.12: customer 748 queued
+INFO:root:3583.70: customer 749 arrived
+INFO:root:3583.70: customer 749 queued
+INFO:root:3585.04: customer 746 left after 4.77
+INFO:root:3586.81: customer 747 left after 5.81
+INFO:root:3588.37: customer 748 left after 5.24
+INFO:root:3596.91: customer 750 arrived
+INFO:root:3596.91: customer 750 queued
+INFO:root:3598.02: customer 749 left after 14.32
+INFO:root:3599.20: customer 751 arrived
+INFO:root:3599.20: customer 751 queued
+INFO:root:3599.42: customer 752 arrived
+INFO:root:3599.42: customer 752 queued
+INFO:root:3601.48: customer 750 left after 4.57
+INFO:root:3602.88: customer 751 left after 3.68
+INFO:root:3604.22: customer 752 left after 4.80
+INFO:root:3604.35: customer 753 arrived
+INFO:root:3604.88: customer 753 left after 0.52
+INFO:root:3607.30: customer 754 arrived
+INFO:root:3608.38: customer 754 left after 1.09
+INFO:root:3615.39: customer 755 arrived
+INFO:root:3615.88: customer 756 arrived
+INFO:root:3615.88: customer 756 queued
+INFO:root:3616.03: customer 757 arrived
+INFO:root:3616.03: customer 757 queued
+INFO:root:3616.35: customer 755 left after 0.97
+INFO:root:3618.97: customer 756 left after 3.09
+INFO:root:3620.02: customer 758 arrived
+INFO:root:3620.02: customer 758 queued
+INFO:root:3623.58: customer 757 left after 7.56
+INFO:root:3625.72: customer 758 left after 5.70
+INFO:root:3626.15: customer 759 arrived
+INFO:root:3627.21: customer 760 arrived
+INFO:root:3627.21: customer 760 queued
+INFO:root:3628.15: customer 759 left after 1.99
+INFO:root:3629.38: customer 760 left after 2.16
+INFO:root:3635.74: customer 761 arrived
+INFO:root:3636.16: customer 761 left after 0.42
+INFO:root:3637.35: customer 762 arrived
+INFO:root:3640.70: customer 762 left after 3.35
+INFO:root:3643.20: customer 763 arrived
+INFO:root:3643.71: customer 763 left after 0.51
+INFO:root:3645.02: customer 764 arrived
+INFO:root:3647.50: customer 764 left after 2.47
+INFO:root:3648.03: customer 765 arrived
+INFO:root:3648.11: customer 765 left after 0.07
+INFO:root:3652.42: customer 766 arrived
+INFO:root:3654.48: customer 767 arrived
+INFO:root:3654.48: customer 767 queued
+INFO:root:3655.30: customer 768 arrived
+INFO:root:3655.30: customer 768 queued
+INFO:root:3657.63: customer 766 left after 5.21
+INFO:root:3659.27: customer 767 left after 4.79
+INFO:root:3660.46: customer 768 left after 5.16
+INFO:root:3661.48: customer 769 arrived
+INFO:root:3663.16: customer 770 arrived
+INFO:root:3663.16: customer 770 queued
+INFO:root:3663.69: customer 771 arrived
+INFO:root:3663.69: customer 771 queued
+INFO:root:3666.60: customer 769 left after 5.13
+INFO:root:3666.91: customer 770 left after 3.75
+INFO:root:3669.27: customer 772 arrived
+INFO:root:3669.27: customer 772 queued
+INFO:root:3669.48: customer 771 left after 5.79
+INFO:root:3671.42: customer 772 left after 2.15
+INFO:root:3678.23: customer 773 arrived
+INFO:root:3679.90: customer 773 left after 1.67
+INFO:root:3680.84: customer 774 arrived
+INFO:root:3683.61: customer 775 arrived
+INFO:root:3683.61: customer 775 queued
+INFO:root:3688.04: customer 776 arrived
+INFO:root:3688.04: customer 776 queued
+INFO:root:3690.49: customer 774 left after 9.65
+INFO:root:3691.41: customer 775 left after 7.80
+INFO:root:3692.52: customer 776 left after 4.48
+INFO:root:3707.63: customer 777 arrived
+INFO:root:3709.13: customer 778 arrived
+INFO:root:3709.13: customer 778 queued
+INFO:root:3714.17: customer 777 left after 6.54
+INFO:root:3719.98: customer 778 left after 10.84
+INFO:root:3724.06: customer 779 arrived
+INFO:root:3725.36: customer 779 left after 1.30
+INFO:root:3727.46: customer 780 arrived
+INFO:root:3729.25: customer 780 left after 1.79
+INFO:root:3746.36: customer 781 arrived
+INFO:root:3748.00: customer 781 left after 1.64
+INFO:root:3750.71: customer 782 arrived
+INFO:root:3752.67: customer 782 left after 1.96
+INFO:root:3759.33: customer 783 arrived
+INFO:root:3763.26: customer 783 left after 3.93
+INFO:root:3768.72: customer 784 arrived
+INFO:root:3772.43: customer 785 arrived
+INFO:root:3772.43: customer 785 queued
+INFO:root:3773.41: customer 784 left after 4.69
+INFO:root:3775.93: customer 785 left after 3.50
+INFO:root:3786.93: customer 786 arrived
+INFO:root:3787.94: customer 786 left after 1.01
+INFO:root:3790.66: customer 787 arrived
+INFO:root:3791.26: customer 788 arrived
+INFO:root:3791.26: customer 788 queued
+INFO:root:3791.53: customer 789 arrived
+INFO:root:3791.53: customer 789 queued
+INFO:root:3793.04: customer 790 arrived
+INFO:root:3793.04: customer 790 queued
+INFO:root:3793.05: customer 787 left after 2.39
+INFO:root:3801.01: customer 791 arrived
+INFO:root:3801.01: customer 791 queued
+INFO:root:3802.04: customer 788 left after 10.78
+INFO:root:3804.49: customer 789 left after 12.95
+INFO:root:3812.00: customer 790 left after 18.97
+INFO:root:3814.02: customer 791 left after 13.02
+INFO:root:3820.49: customer 792 arrived
+INFO:root:3821.16: customer 793 arrived
+INFO:root:3821.16: customer 793 queued
+INFO:root:3821.90: customer 792 left after 1.42
+INFO:root:3823.43: customer 794 arrived
+INFO:root:3823.43: customer 794 queued
+INFO:root:3824.94: customer 795 arrived
+INFO:root:3824.94: customer 795 queued
+INFO:root:3829.61: customer 793 left after 8.45
+INFO:root:3831.17: customer 796 arrived
+INFO:root:3831.17: customer 796 queued
+INFO:root:3833.66: customer 797 arrived
+INFO:root:3833.66: customer 797 queued
+INFO:root:3837.15: customer 794 left after 13.71
+INFO:root:3837.61: customer 795 left after 12.68
+INFO:root:3840.49: customer 796 left after 9.31
+INFO:root:3840.76: customer 798 arrived
+INFO:root:3840.76: customer 798 queued
+INFO:root:3842.58: customer 797 left after 8.92
+INFO:root:3843.01: customer 798 left after 2.25
+INFO:root:3850.06: customer 799 arrived
+INFO:root:3853.64: customer 799 left after 3.58
+INFO:root:3855.72: customer 800 arrived
+INFO:root:3859.10: customer 801 arrived
+INFO:root:3859.10: customer 801 queued
+INFO:root:3861.09: customer 802 arrived
+INFO:root:3861.09: customer 802 queued
+INFO:root:3863.15: customer 803 arrived
+INFO:root:3863.15: customer 803 queued
+INFO:root:3866.32: customer 804 arrived
+INFO:root:3866.32: customer 804 queued
+INFO:root:3866.52: customer 800 left after 10.80
+INFO:root:3868.19: customer 805 arrived
+INFO:root:3868.19: customer 805 queued
+INFO:root:3868.80: customer 806 arrived
+INFO:root:3868.80: customer 806 queued
+INFO:root:3869.24: customer 807 arrived
+INFO:root:3869.24: customer 807 queued
+INFO:root:3873.81: customer 801 left after 14.71
+INFO:root:3874.71: customer 802 left after 13.62
+INFO:root:3874.88: customer 803 left after 11.73
+INFO:root:3875.88: customer 804 left after 9.56
+INFO:root:3876.05: customer 805 left after 7.86
+INFO:root:3876.36: customer 806 left after 7.56
+INFO:root:3879.12: customer 808 arrived
+INFO:root:3879.12: customer 808 queued
+INFO:root:3879.27: customer 809 arrived
+INFO:root:3879.27: customer 809 queued
+INFO:root:3879.67: customer 807 left after 10.43
+INFO:root:3879.92: customer 810 arrived
+INFO:root:3879.92: customer 810 queued
+INFO:root:3883.24: customer 808 left after 4.12
+INFO:root:3883.32: customer 809 left after 4.05
+INFO:root:3886.77: customer 810 left after 6.85
+INFO:root:3887.01: customer 811 arrived
+INFO:root:3887.57: customer 812 arrived
+INFO:root:3887.57: customer 812 queued
+INFO:root:3887.93: customer 811 left after 0.92
+INFO:root:3888.55: customer 812 left after 0.98
+INFO:root:3890.86: customer 813 arrived
+INFO:root:3893.02: customer 814 arrived
+INFO:root:3893.02: customer 814 queued
+INFO:root:3894.14: customer 815 arrived
+INFO:root:3894.14: customer 815 queued
+INFO:root:3896.66: customer 813 left after 5.79
+INFO:root:3897.34: customer 814 left after 4.32
+INFO:root:3897.80: customer 815 left after 3.66
+INFO:root:3927.09: customer 816 arrived
+INFO:root:3928.41: customer 816 left after 1.32
+INFO:root:3935.58: customer 817 arrived
+INFO:root:3936.24: customer 817 left after 0.66
+INFO:root:3936.75: customer 818 arrived
+INFO:root:3937.69: customer 818 left after 0.95
+INFO:root:3940.73: customer 819 arrived
+INFO:root:3941.89: customer 820 arrived
+INFO:root:3941.89: customer 820 queued
+INFO:root:3944.19: customer 819 left after 3.46
+INFO:root:3945.29: customer 821 arrived
+INFO:root:3945.29: customer 821 queued
+INFO:root:3946.59: customer 820 left after 4.71
+INFO:root:3947.37: customer 821 left after 2.08
+INFO:root:3949.86: customer 822 arrived
+INFO:root:3952.08: customer 823 arrived
+INFO:root:3952.08: customer 823 queued
+INFO:root:3954.21: customer 822 left after 4.35
+INFO:root:3958.05: customer 824 arrived
+INFO:root:3958.05: customer 824 queued
+INFO:root:3966.61: customer 823 left after 14.53
+INFO:root:3967.18: customer 824 left after 9.13
+INFO:root:3968.06: customer 825 arrived
+INFO:root:3972.11: customer 825 left after 4.05
+INFO:root:3985.93: customer 826 arrived
+INFO:root:3986.26: customer 826 left after 0.33
+INFO:root:3988.42: customer 827 arrived
+INFO:root:3992.08: customer 827 left after 3.65
+INFO:root:3995.06: customer 828 arrived
+INFO:root:3995.38: customer 829 arrived
+INFO:root:3995.38: customer 829 queued
+INFO:root:3996.53: customer 828 left after 1.47
+INFO:root:3996.94: customer 830 arrived
+INFO:root:3996.94: customer 830 queued
+INFO:root:3999.88: customer 829 left after 4.51
+INFO:root:4001.03: customer 831 arrived
+INFO:root:4001.03: customer 831 queued
+INFO:root:4002.93: customer 832 arrived
+INFO:root:4002.93: customer 832 queued
+INFO:root:4015.20: customer 830 left after 18.26
+INFO:root:4015.60: customer 831 left after 14.56
+INFO:root:4015.86: customer 833 arrived
+INFO:root:4015.86: customer 833 queued
+INFO:root:4016.72: customer 832 left after 13.79
+INFO:root:4016.80: customer 833 left after 0.95
+INFO:root:4025.35: customer 834 arrived
+INFO:root:4027.82: customer 835 arrived
+INFO:root:4027.82: customer 835 queued
+INFO:root:4030.17: customer 834 left after 4.83
+INFO:root:4030.24: customer 836 arrived
+INFO:root:4030.24: customer 836 queued
+INFO:root:4036.44: customer 835 left after 8.62
+INFO:root:4038.03: customer 837 arrived
+INFO:root:4038.03: customer 837 queued
+INFO:root:4040.94: customer 836 left after 10.70
+INFO:root:4045.88: customer 837 left after 7.85
+INFO:root:4048.23: customer 838 arrived
+INFO:root:4052.02: customer 839 arrived
+INFO:root:4052.02: customer 839 queued
+INFO:root:4062.43: customer 838 left after 14.20
+INFO:root:4070.41: customer 839 left after 18.39
+INFO:root:4071.02: customer 840 arrived
+INFO:root:4073.64: customer 840 left after 2.63
+INFO:root:4077.32: customer 841 arrived
+INFO:root:4077.63: customer 841 left after 0.31
+INFO:root:4079.69: customer 842 arrived
+INFO:root:4080.16: customer 842 left after 0.47
+INFO:root:4081.75: customer 843 arrived
+INFO:root:4084.83: customer 844 arrived
+INFO:root:4084.83: customer 844 queued
+INFO:root:4085.20: customer 843 left after 3.45
+INFO:root:4086.99: customer 844 left after 2.16
+INFO:root:4090.81: customer 845 arrived
+INFO:root:4091.02: customer 845 left after 0.21
+INFO:root:4097.30: customer 846 arrived
+INFO:root:4097.39: customer 847 arrived
+INFO:root:4097.39: customer 847 queued
+INFO:root:4097.76: customer 846 left after 0.45
+INFO:root:4104.25: customer 847 left after 6.85
+INFO:root:4104.52: customer 848 arrived
+INFO:root:4104.79: customer 849 arrived
+INFO:root:4104.79: customer 849 queued
+INFO:root:4107.51: customer 848 left after 2.98
+INFO:root:4108.86: customer 849 left after 4.07
+INFO:root:4113.45: customer 850 arrived
+INFO:root:4113.70: customer 850 left after 0.25
+INFO:root:4114.34: customer 851 arrived
+INFO:root:4116.88: customer 851 left after 2.53
+INFO:root:4129.18: customer 852 arrived
+INFO:root:4129.36: customer 853 arrived
+INFO:root:4129.36: customer 853 queued
+INFO:root:4129.76: customer 854 arrived
+INFO:root:4129.76: customer 854 queued
+INFO:root:4133.26: customer 855 arrived
+INFO:root:4133.26: customer 855 queued
+INFO:root:4134.81: customer 852 left after 5.62
+INFO:root:4136.46: customer 856 arrived
+INFO:root:4136.46: customer 856 queued
+INFO:root:4137.06: customer 853 left after 7.70
+INFO:root:4138.74: customer 854 left after 8.97
+INFO:root:4140.87: customer 855 left after 7.61
+INFO:root:4141.61: customer 856 left after 5.15
+INFO:root:4149.06: customer 857 arrived
+INFO:root:4149.37: customer 857 left after 0.31
+INFO:root:4150.37: customer 858 arrived
+INFO:root:4152.17: customer 859 arrived
+INFO:root:4152.17: customer 859 queued
+INFO:root:4153.76: customer 858 left after 3.39
+INFO:root:4154.04: customer 859 left after 1.87
+INFO:root:4159.10: customer 860 arrived
+INFO:root:4159.53: customer 860 left after 0.42
+INFO:root:4160.67: customer 861 arrived
+INFO:root:4161.03: customer 861 left after 0.36
+INFO:root:4168.09: customer 862 arrived
+INFO:root:4168.87: customer 862 left after 0.78
+INFO:root:4169.71: customer 863 arrived
+INFO:root:4176.89: customer 863 left after 7.18
+INFO:root:4186.15: customer 864 arrived
+INFO:root:4188.42: customer 865 arrived
+INFO:root:4188.42: customer 865 queued
+INFO:root:4189.29: customer 866 arrived
+INFO:root:4189.29: customer 866 queued
+INFO:root:4189.83: customer 867 arrived
+INFO:root:4189.83: customer 867 queued
+INFO:root:4190.74: customer 864 left after 4.58
+INFO:root:4193.40: customer 865 left after 4.98
+INFO:root:4195.63: customer 866 left after 6.34
+INFO:root:4198.24: customer 867 left after 8.41
+INFO:root:4203.53: customer 868 arrived
+INFO:root:4204.17: customer 868 left after 0.65
+INFO:root:4208.84: customer 869 arrived
+INFO:root:4214.85: customer 869 left after 6.01
+INFO:root:4214.92: customer 870 arrived
+INFO:root:4217.05: customer 870 left after 2.12
+INFO:root:4217.60: customer 871 arrived
+INFO:root:4227.13: customer 872 arrived
+INFO:root:4227.13: customer 872 queued
+INFO:root:4228.42: customer 871 left after 10.82
+INFO:root:4229.07: customer 872 left after 1.95
+INFO:root:4242.01: customer 873 arrived
+INFO:root:4244.69: customer 874 arrived
+INFO:root:4244.69: customer 874 queued
+INFO:root:4246.98: customer 875 arrived
+INFO:root:4246.98: customer 875 queued
+INFO:root:4248.05: customer 873 left after 6.04
+INFO:root:4249.46: customer 876 arrived
+INFO:root:4249.46: customer 876 queued
+INFO:root:4250.44: customer 877 arrived
+INFO:root:4250.44: customer 877 queued
+INFO:root:4251.07: customer 874 left after 6.38
+INFO:root:4252.88: customer 878 arrived
+INFO:root:4252.88: customer 878 queued
+INFO:root:4253.16: customer 875 left after 6.18
+INFO:root:4256.09: customer 876 left after 6.63
+INFO:root:4257.38: customer 877 left after 6.93
+INFO:root:4257.43: customer 878 left after 4.55
+INFO:root:4262.10: customer 879 arrived
+INFO:root:4263.42: customer 880 arrived
+INFO:root:4263.42: customer 880 queued
+INFO:root:4264.57: customer 879 left after 2.47
+INFO:root:4267.45: customer 881 arrived
+INFO:root:4267.45: customer 881 queued
+INFO:root:4267.91: customer 882 arrived
+INFO:root:4267.91: customer 882 queued
+INFO:root:4269.91: customer 880 left after 6.50
+INFO:root:4270.74: customer 883 arrived
+INFO:root:4270.74: customer 883 queued
+INFO:root:4271.82: customer 881 left after 4.37
+INFO:root:4273.64: customer 884 arrived
+INFO:root:4273.64: customer 884 queued
+INFO:root:4278.26: customer 885 arrived
+INFO:root:4278.26: customer 885 queued
+INFO:root:4279.41: customer 882 left after 11.50
+INFO:root:4281.04: customer 886 arrived
+INFO:root:4281.04: customer 886 queued
+INFO:root:4281.78: customer 883 left after 11.04
+INFO:root:4282.05: customer 884 left after 8.41
+INFO:root:4283.62: customer 885 left after 5.36
+INFO:root:4285.10: customer 886 left after 4.06
+INFO:root:4287.46: customer 887 arrived
+INFO:root:4288.66: customer 887 left after 1.20
+INFO:root:4291.10: customer 888 arrived
+INFO:root:4292.74: customer 888 left after 1.64
+INFO:root:4299.70: customer 889 arrived
+INFO:root:4305.08: customer 889 left after 5.39
+INFO:root:4309.68: customer 890 arrived
+INFO:root:4310.02: customer 890 left after 0.34
+INFO:root:4321.12: customer 891 arrived
+INFO:root:4326.19: customer 891 left after 5.07
+INFO:root:4329.12: customer 892 arrived
+INFO:root:4330.94: customer 893 arrived
+INFO:root:4330.94: customer 893 queued
+INFO:root:4331.19: customer 892 left after 2.07
+INFO:root:4332.29: customer 894 arrived
+INFO:root:4332.29: customer 894 queued
+INFO:root:4334.56: customer 893 left after 3.63
+INFO:root:4335.02: customer 894 left after 2.73
+INFO:root:4342.49: customer 895 arrived
+INFO:root:4343.12: customer 895 left after 0.64
+INFO:root:4349.91: customer 896 arrived
+INFO:root:4350.03: customer 897 arrived
+INFO:root:4350.03: customer 897 queued
+INFO:root:4358.57: customer 896 left after 8.66
+INFO:root:4360.18: customer 898 arrived
+INFO:root:4360.18: customer 898 queued
+INFO:root:4360.80: customer 899 arrived
+INFO:root:4360.80: customer 899 queued
+INFO:root:4362.20: customer 897 left after 12.17
+INFO:root:4377.90: customer 898 left after 17.73
+INFO:root:4380.35: customer 899 left after 19.55
+INFO:root:4382.25: customer 900 arrived
+INFO:root:4382.51: customer 900 left after 0.26
+INFO:root:4383.79: customer 901 arrived
+INFO:root:4385.48: customer 902 arrived
+INFO:root:4385.48: customer 902 queued
+INFO:root:4387.50: customer 901 left after 3.71
+INFO:root:4389.35: customer 902 left after 3.86
+INFO:root:4394.02: customer 903 arrived
+INFO:root:4394.13: customer 904 arrived
+INFO:root:4394.13: customer 904 queued
+INFO:root:4398.42: customer 903 left after 4.40
+INFO:root:4400.06: customer 905 arrived
+INFO:root:4400.06: customer 905 queued
+INFO:root:4402.11: customer 904 left after 7.98
+INFO:root:4402.17: customer 905 left after 2.11
+INFO:root:4404.72: customer 906 arrived
+INFO:root:4409.13: customer 906 left after 4.41
+INFO:root:4413.59: customer 907 arrived
+INFO:root:4414.38: customer 908 arrived
+INFO:root:4414.38: customer 908 queued
+INFO:root:4417.35: customer 907 left after 3.76
+INFO:root:4420.83: customer 909 arrived
+INFO:root:4420.83: customer 909 queued
+INFO:root:4425.24: customer 910 arrived
+INFO:root:4425.24: customer 910 queued
+INFO:root:4425.60: customer 908 left after 11.22
+INFO:root:4431.99: customer 909 left after 11.16
+INFO:root:4433.68: customer 910 left after 8.44
+INFO:root:4443.96: customer 911 arrived
+INFO:root:4444.65: customer 911 left after 0.69
+INFO:root:4446.05: customer 912 arrived
+INFO:root:4449.35: customer 912 left after 3.31
+INFO:root:4451.10: customer 913 arrived
+INFO:root:4452.91: customer 913 left after 1.80
+INFO:root:4458.68: customer 914 arrived
+INFO:root:4461.28: customer 914 left after 2.61
+INFO:root:4468.08: customer 915 arrived
+INFO:root:4469.63: customer 915 left after 1.55
+INFO:root:4473.17: customer 916 arrived
+INFO:root:4474.17: customer 917 arrived
+INFO:root:4474.17: customer 917 queued
+INFO:root:4475.12: customer 918 arrived
+INFO:root:4475.12: customer 918 queued
+INFO:root:4475.15: customer 919 arrived
+INFO:root:4475.15: customer 919 queued
+INFO:root:4481.18: customer 920 arrived
+INFO:root:4481.18: customer 920 queued
+INFO:root:4484.83: customer 916 left after 11.66
+INFO:root:4485.12: customer 921 arrived
+INFO:root:4485.12: customer 921 queued
+INFO:root:4486.55: customer 922 arrived
+INFO:root:4486.55: customer 922 queued
+INFO:root:4489.08: customer 923 arrived
+INFO:root:4489.08: customer 923 queued
+INFO:root:4489.24: customer 917 left after 15.07
+INFO:root:4491.62: customer 918 left after 16.49
+INFO:root:4492.90: customer 919 left after 17.75
+INFO:root:4495.42: customer 920 left after 14.24
+INFO:root:4497.88: customer 924 arrived
+INFO:root:4497.88: customer 924 queued
+INFO:root:4501.06: customer 925 arrived
+INFO:root:4501.06: customer 925 queued
+INFO:root:4501.67: customer 926 arrived
+INFO:root:4501.67: customer 926 queued
+INFO:root:4502.37: customer 921 left after 17.25
+INFO:root:4503.52: customer 922 left after 16.97
+INFO:root:4505.66: customer 923 left after 16.59
+INFO:root:4511.71: customer 927 arrived
+INFO:root:4511.71: customer 927 queued
+INFO:root:4512.07: customer 924 left after 14.19
+INFO:root:4513.36: customer 925 left after 12.30
+INFO:root:4513.55: customer 926 left after 11.88
+INFO:root:4515.02: customer 927 left after 3.31
+INFO:root:4517.71: customer 928 arrived
+INFO:root:4519.79: customer 928 left after 2.09
+INFO:root:4520.50: customer 929 arrived
+INFO:root:4523.36: customer 930 arrived
+INFO:root:4523.36: customer 930 queued
+INFO:root:4527.93: customer 929 left after 7.43
+INFO:root:4530.01: customer 930 left after 6.65
+INFO:root:4539.33: customer 931 arrived
+INFO:root:4541.48: customer 932 arrived
+INFO:root:4541.48: customer 932 queued
+INFO:root:4542.91: customer 931 left after 3.59
+INFO:root:4546.16: customer 933 arrived
+INFO:root:4546.16: customer 933 queued
+INFO:root:4547.87: customer 934 arrived
+INFO:root:4547.87: customer 934 queued
+INFO:root:4548.51: customer 932 left after 7.03
+INFO:root:4548.86: customer 933 left after 2.71
+INFO:root:4550.01: customer 935 arrived
+INFO:root:4550.01: customer 935 queued
+INFO:root:4552.24: customer 936 arrived
+INFO:root:4552.24: customer 936 queued
+INFO:root:4556.11: customer 934 left after 8.24
+INFO:root:4558.84: customer 937 arrived
+INFO:root:4558.84: customer 937 queued
+INFO:root:4564.54: customer 938 arrived
+INFO:root:4564.54: customer 938 queued
+INFO:root:4568.51: customer 939 arrived
+INFO:root:4568.51: customer 939 queued
+INFO:root:4570.26: customer 940 arrived
+INFO:root:4570.26: customer 940 queued
+INFO:root:4572.36: customer 941 arrived
+INFO:root:4572.36: customer 941 queued
+INFO:root:4574.13: customer 942 arrived
+INFO:root:4574.13: customer 942 queued
+INFO:root:4574.88: customer 935 left after 24.87
+INFO:root:4575.64: customer 943 arrived
+INFO:root:4575.64: customer 943 queued
+INFO:root:4578.77: customer 936 left after 26.53
+INFO:root:4579.68: customer 937 left after 20.84
+INFO:root:4582.63: customer 944 arrived
+INFO:root:4582.63: customer 944 queued
+INFO:root:4582.66: customer 938 left after 18.12
+INFO:root:4582.69: customer 939 left after 14.18
+INFO:root:4584.11: customer 945 arrived
+INFO:root:4584.11: customer 945 queued
+INFO:root:4584.48: customer 940 left after 14.22
+INFO:root:4588.30: customer 946 arrived
+INFO:root:4588.30: customer 946 queued
+INFO:root:4590.38: customer 947 arrived
+INFO:root:4590.38: customer 947 queued
+INFO:root:4592.51: customer 941 left after 20.15
+INFO:root:4593.47: customer 942 left after 19.34
+INFO:root:4604.00: customer 943 left after 28.36
+INFO:root:4606.97: customer 944 left after 24.34
+INFO:root:4608.58: customer 948 arrived
+INFO:root:4608.58: customer 948 queued
+INFO:root:4624.93: customer 949 arrived
+INFO:root:4624.93: customer 949 queued
+INFO:root:4627.51: customer 950 arrived
+INFO:root:4627.51: customer 950 queued
+INFO:root:4629.30: customer 951 arrived
+INFO:root:4629.30: customer 951 queued
+INFO:root:4634.98: customer 945 left after 50.87
+INFO:root:4635.34: customer 946 left after 47.04
+INFO:root:4636.02: customer 947 left after 45.64
+INFO:root:4638.03: customer 952 arrived
+INFO:root:4638.03: customer 952 queued
+INFO:root:4638.97: customer 948 left after 30.39
+INFO:root:4639.19: customer 953 arrived
+INFO:root:4639.19: customer 953 queued
+INFO:root:4643.49: customer 949 left after 18.56
+INFO:root:4645.69: customer 954 arrived
+INFO:root:4645.69: customer 954 queued
+INFO:root:4647.28: customer 955 arrived
+INFO:root:4647.28: customer 955 queued
+INFO:root:4647.34: customer 956 arrived
+INFO:root:4647.34: customer 956 queued
+INFO:root:4647.94: customer 950 left after 20.44
+INFO:root:4648.55: customer 951 left after 19.25
+INFO:root:4651.01: customer 952 left after 12.98
+INFO:root:4651.79: customer 957 arrived
+INFO:root:4651.79: customer 957 queued
+INFO:root:4653.14: customer 953 left after 13.95
+INFO:root:4654.67: customer 954 left after 8.97
+INFO:root:4654.90: customer 955 left after 7.62
+INFO:root:4658.84: customer 956 left after 11.50
+INFO:root:4659.02: customer 958 arrived
+INFO:root:4659.02: customer 958 queued
+INFO:root:4660.55: customer 957 left after 8.76
+INFO:root:4663.46: customer 958 left after 4.44
+INFO:root:4669.91: customer 959 arrived
+INFO:root:4669.92: customer 959 left after 0.01
+INFO:root:4674.45: customer 960 arrived
+INFO:root:4675.04: customer 960 left after 0.59
+INFO:root:4678.02: customer 961 arrived
+INFO:root:4678.08: customer 962 arrived
+INFO:root:4678.08: customer 962 queued
+INFO:root:4678.89: customer 963 arrived
+INFO:root:4678.89: customer 963 queued
+INFO:root:4684.62: customer 961 left after 6.60
+INFO:root:4685.98: customer 962 left after 7.89
+INFO:root:4687.31: customer 964 arrived
+INFO:root:4687.31: customer 964 queued
+INFO:root:4688.61: customer 963 left after 9.72
+INFO:root:4692.34: customer 965 arrived
+INFO:root:4692.34: customer 965 queued
+INFO:root:4701.21: customer 964 left after 13.90
+INFO:root:4703.57: customer 966 arrived
+INFO:root:4703.57: customer 966 queued
+INFO:root:4704.57: customer 965 left after 12.24
+INFO:root:4705.56: customer 967 arrived
+INFO:root:4705.56: customer 967 queued
+INFO:root:4708.85: customer 968 arrived
+INFO:root:4708.85: customer 968 queued
+INFO:root:4710.30: customer 966 left after 6.73
+INFO:root:4711.08: customer 969 arrived
+INFO:root:4711.08: customer 969 queued
+INFO:root:4718.46: customer 967 left after 12.90
+INFO:root:4720.36: customer 968 left after 11.50
+INFO:root:4720.43: customer 970 arrived
+INFO:root:4720.43: customer 970 queued
+INFO:root:4720.48: customer 971 arrived
+INFO:root:4720.48: customer 971 queued
+INFO:root:4722.45: customer 972 arrived
+INFO:root:4722.45: customer 972 queued
+INFO:root:4729.76: customer 973 arrived
+INFO:root:4729.76: customer 973 queued
+INFO:root:4730.50: customer 974 arrived
+INFO:root:4730.50: customer 974 queued
+INFO:root:4731.34: customer 969 left after 20.26
+INFO:root:4732.30: customer 970 left after 11.87
+INFO:root:4733.79: customer 975 arrived
+INFO:root:4733.79: customer 975 queued
+INFO:root:4734.33: customer 971 left after 13.85
+INFO:root:4734.43: customer 972 left after 11.98
+INFO:root:4735.15: customer 976 arrived
+INFO:root:4735.15: customer 976 queued
+INFO:root:4735.96: customer 973 left after 6.21
+INFO:root:4740.54: customer 977 arrived
+INFO:root:4740.54: customer 977 queued
+INFO:root:4742.44: customer 978 arrived
+INFO:root:4742.44: customer 978 queued
+INFO:root:4745.78: customer 979 arrived
+INFO:root:4745.78: customer 979 queued
+INFO:root:4746.03: customer 980 arrived
+INFO:root:4746.03: customer 980 queued
+INFO:root:4746.96: customer 974 left after 16.45
+INFO:root:4747.71: customer 981 arrived
+INFO:root:4747.71: customer 981 queued
+INFO:root:4747.97: customer 975 left after 14.18
+INFO:root:4750.90: customer 976 left after 15.75
+INFO:root:4751.01: customer 977 left after 10.47
+INFO:root:4754.71: customer 978 left after 12.27
+INFO:root:4754.91: customer 979 left after 9.13
+INFO:root:4755.65: customer 982 arrived
+INFO:root:4755.65: customer 982 queued
+INFO:root:4756.29: customer 980 left after 10.26
+INFO:root:4758.15: customer 983 arrived
+INFO:root:4758.15: customer 983 queued
+INFO:root:4760.03: customer 984 arrived
+INFO:root:4760.03: customer 984 queued
+INFO:root:4760.89: customer 981 left after 13.17
+INFO:root:4761.91: customer 982 left after 6.27
+INFO:root:4764.26: customer 985 arrived
+INFO:root:4764.26: customer 985 queued
+INFO:root:4765.78: customer 986 arrived
+INFO:root:4765.78: customer 986 queued
+INFO:root:4767.89: customer 983 left after 9.74
+INFO:root:4773.61: customer 987 arrived
+INFO:root:4773.61: customer 987 queued
+INFO:root:4776.76: customer 984 left after 16.73
+INFO:root:4777.77: customer 985 left after 13.50
+INFO:root:4777.78: customer 986 left after 12.00
+INFO:root:4777.81: customer 987 left after 4.19
+INFO:root:4778.09: customer 988 arrived
+INFO:root:4780.60: customer 989 arrived
+INFO:root:4780.60: customer 989 queued
+INFO:root:4782.63: customer 990 arrived
+INFO:root:4782.63: customer 990 queued
+INFO:root:4785.06: customer 991 arrived
+INFO:root:4785.06: customer 991 queued
+INFO:root:4786.44: customer 988 left after 8.34
+INFO:root:4786.64: customer 992 arrived
+INFO:root:4786.64: customer 992 queued
+INFO:root:4786.65: customer 989 left after 6.05
+INFO:root:4787.60: customer 990 left after 4.96
+INFO:root:4788.90: customer 993 arrived
+INFO:root:4788.90: customer 993 queued
+INFO:root:4796.37: customer 994 arrived
+INFO:root:4796.37: customer 994 queued
+INFO:root:4797.61: customer 991 left after 12.55
+INFO:root:4798.68: customer 992 left after 12.04
+INFO:root:4800.14: customer 995 arrived
+INFO:root:4800.14: customer 995 queued
+INFO:root:4803.12: customer 996 arrived
+INFO:root:4803.12: customer 996 queued
+INFO:root:4805.32: customer 993 left after 16.41
+INFO:root:4805.81: customer 997 arrived
+INFO:root:4805.81: customer 997 queued
+INFO:root:4811.41: customer 998 arrived
+INFO:root:4811.41: customer 998 queued
+INFO:root:4812.39: customer 994 left after 16.02
+INFO:root:4814.05: customer 999 arrived
+INFO:root:4814.05: customer 999 queued
+INFO:root:4817.37: customer 995 left after 17.23
+INFO:root:4826.32: customer 996 left after 23.20
+INFO:root:4828.22: customer 997 left after 22.41
+INFO:root:4837.39: customer 998 left after 25.98
+INFO:root:4842.22: customer 999 left after 28.18
